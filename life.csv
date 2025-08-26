@@ -1,7 +1,7 @@
 Domain,Status,Attractiveness,Demand,Length,Sectors,Created,Expires,Registrar
 brief.life,resell,124,19%,5,"Business,Education,General,Law",28/03/2019 09:46,28/03/2026 09:46,Xin Net Technology Corporation
 complete.life,expiring,120,21%,8,"Manufacturing,Retail,Technology",17/09/2014 16:00,17/09/2025 16:00,1API GmbH
-flat.life,resell,116,24%,4,"Construction,Real Estate",06/07/2017 08:13,06/07/2026 08:13,"Chengdu West Dimension Digital Technology Co., Ltd."
+flat.life,resell,116,23%,4,"Construction,Real Estate",06/07/2017 08:13,06/07/2026 08:13,"Chengdu West Dimension Digital Technology Co., Ltd."
 tonic.life,resell,114,22%,5,"Health and Fitness,Medicine,Science",26/09/2017 08:29,26/09/2026 08:29,Dynadot Inc
 zero.life,resell,112,49%,4,Mathematics,06/01/2022 13:15,06/01/2026 13:15,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 acute.life,expired,112,9%,5,"Mathematics,Medicine,Science",02/07/2024 17:00,02/07/2025 17:00,CommuniGal Communication Ltd.
@@ -36,13 +36,13 @@ addictive.life,resell,90,9%,9,Healthcare,21/05/2021 09:40,21/05/2026 09:40,Aliba
 endearing.life,available,90,1%,9,"Entertainment,Fashion,Retail",,,
 adoring.life,available,90,2%,7,"Entertainment,Fashion,Retail",,,
 proficient.life,available,88,8%,10,"Education,Health and Fitness,Sports",,,
-hundred.life,resell,88,14%,7,Mathematics,02/03/2024 15:15,02/03/2026 15:15,Xin Net Technology Corporation
-ten.life,resell,88,28%,3,"General,Mathematics",01/04/2021 23:59,01/04/2026 23:59,"Spaceship, Inc."
-ace.life,resell,88,34%,3,Sports,16/09/2018 09:56,16/09/2025 09:56,Epik LLC
-eleven.life,expired,88,33%,6,Mathematics,10/06/2019 12:43,10/06/2025 12:43,Squarespace Domains II LLC
+hundred.life,resell,88,13%,7,Mathematics,02/03/2024 15:15,02/03/2026 15:15,Xin Net Technology Corporation
+ten.life,resell,88,27%,3,"General,Mathematics",01/04/2021 23:59,01/04/2026 23:59,"Spaceship, Inc."
+ace.life,expiring,88,34%,3,Sports,16/09/2018 09:56,16/09/2025 09:56,Epik LLC
+eleven.life,expired,88,32%,6,Mathematics,10/06/2019 12:43,10/06/2025 12:43,Squarespace Domains II LLC
 wide.life,resell,88,18%,4,"Business,Media,Technology",21/06/2018 13:22,21/06/2026 13:22,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
-twelve.life,expiring,88,18%,6,"General,Mathematics",16/08/2024 17:00,16/08/2025 17:00,CommuniGal Communication Ltd.
-three.life,resell,88,24%,5,Mathematics,13/02/2018 19:15,13/02/2030 19:15,"Chengdu West Dimension Digital Technology Co., Ltd."
+twelve.life,sold,88,18%,6,"General,Mathematics",16/08/2024 17:00,16/08/2026 17:00,CommuniGal Communication Ltd.
+three.life,resell,88,23%,5,Mathematics,13/02/2018 19:15,13/02/2030 19:15,"Chengdu West Dimension Digital Technology Co., Ltd."
 aboriginal.life,expiring,86,10%,10,Humanities,14/09/2024 23:18,14/09/2025 23:18,"GoDaddy.com, LLC"
 intent.life,resell,86,25%,6,"Business,Education,Technology",29/05/2020 05:26,29/05/2026 05:26,"DNSPod, Inc."
 attendant.life,resell,86,5%,9,"Healthcare,Hospitality,Transportation",10/07/2025 02:38,10/07/2026 02:38,Dynadot Inc
@@ -73,15 +73,16 @@ sequent.life,available,80,7%,7,"Healthcare,Insurance,Transportation",,,
 some.life,available,80,32%,4,"Business,Media,Retail",,,
 absorbable.life,available,80,0%,10,"Healthcare,Pharmaceuticals,Science",,,
 superstar.life,resell,80,18%,9,Entertainment,15/03/2020 02:19,15/03/2026 02:19,Xin Net Technology Corporation
-two.life,resell,80,24%,3,Mathematics,16/03/2020 08:51,16/03/2026 08:51,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+two.life,resell,80,23%,3,Mathematics,16/03/2020 08:51,16/03/2026 08:51,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 nine.life,resell,80,24%,4,"General,Mathematics",06/01/2025 15:15,06/01/2026 15:15,"Xiamen ChinaSource Internet Service Co., Ltd"
 wiz.life,resell,80,30%,3,"Business,Education,Technology",10/04/2017 18:48,10/04/2026 18:48,Xin Net Technology Corporation
 absurd.life,resell,80,16%,6,"Arts,Entertainment,Media",30/11/2024 17:00,30/11/2025 17:00,"Sav.com, LLC - 31"
 adoptable.life,available,80,3%,9,"Education,Healthcare",,,
 worshipful.life,available,80,1%,10,"Education,Healthcare,Religion",,,
-yard.life,resell,80,26%,4,"Construction,General",09/12/2016 07:21,09/12/2025 07:21,"Chengdu West Dimension Digital Technology Co., Ltd."
+yard.life,resell,80,25%,4,"Construction,General",09/12/2016 07:21,09/12/2025 07:21,"Chengdu West Dimension Digital Technology Co., Ltd."
 absolute.life,resell,80,25%,8,"Engineering,Mathematics,Science",02/03/2019 13:58,02/03/2026 13:58,Xin Net Technology Corporation
 twenty.life,resell,80,12%,6,Mathematics,08/03/2024 17:07,08/03/2026 17:07,"GoDaddy.com, LLC"
+twentysix.life,expiring,78,8%,10,Mathematics,23/09/2023 21:33,23/09/2025 21:33,Gandi SAS
 acceptant.life,available,78,1%,9,"Education,Healthcare",,,
 low.life,resell,78,20%,3,"Business,Finance",12/10/2017 23:17,12/10/2025 23:17,Dynadot Inc
 dormant.life,expired,78,4%,7,"Medicine,Science",06/07/2024 01:05,06/07/2025 01:05,"GoDaddy.com, LLC"
@@ -105,7 +106,7 @@ incidental.life,available,76,4%,10,"Healthcare,Insurance,Transportation",,,
 fifteenth.life,available,76,2%,9,Mathematics,,,
 adipose.life,available,76,2%,7,"Healthcare,Science",,,
 adaptable.life,resell,76,9%,9,"Business,Education,Technology",13/01/2025 15:15,13/01/2026 15:15,"Sav.com, LLC - 3"
-fourteenth.life,available,76,1%,10,Mathematics,,,
+fourteenth.life,available,76,2%,10,Mathematics,,,
 diamond.life,expiring,76,32%,7,Fashion,17/09/2014 16:00,17/09/2025 16:00,"Go France Domains, LLC"
 obscene.life,available,76,5%,7,"Entertainment,Media",,,
 ancillary.life,available,76,6%,9,"Healthcare,Manufacturing,Technology",,,
@@ -114,7 +115,7 @@ adhesive.life,available,76,7%,8,"Construction,Manufacturing,Technology",,,
 auxiliary.life,available,76,7%,9,"Healthcare,Manufacturing,Technology",,,
 ventral.life,available,76,3%,7,Science,,,
 firstrate.life,available,76,6%,10,Business,,,
-thirteenth.life,available,76,4%,10,Mathematics,,,
+thirteenth.life,available,76,3%,10,Mathematics,,,
 abrasive.life,available,76,6%,8,"Construction,Manufacturing",,,
 resultant.life,available,76,2%,9,"Healthcare,Insurance,Transportation",,,
 nineteenth.life,available,76,3%,10,Mathematics,,,
@@ -168,7 +169,7 @@ abradant.life,available,70,1%,8,"Construction,Manufacturing",,,
 recumbent.life,available,70,2%,9,"Healthcare,Medicine,Science",,,
 stillborn.life,available,70,2%,9,"Medicine,Science",,,
 lowdown.life,available,70,6%,8,"Entertainment,Media",,,
-unity.life,resell,70,40%,5,Mathematics,03/12/2019 00:06,03/12/2025 00:06,"Chengdu West Dimension Digital Technology Co., Ltd."
+unity.life,resell,70,38%,5,Mathematics,03/12/2019 00:06,03/12/2025 00:06,"Chengdu West Dimension Digital Technology Co., Ltd."
 practiced.life,available,70,3%,9,"Education,Health and Fitness,Sports",,,
 absorbing.life,available,70,3%,9,"Entertainment,Media,Technology",,,
 consequent.life,available,70,3%,10,"Business,Education,General,Technology",,,
@@ -182,7 +183,7 @@ thirtieth.life,available,68,1%,9,Mathematics,,,
 licenced.life,available,68,2%,8,"Business,Healthcare,Insurance",,,
 acerate.life,available,68,1%,7,Science,,,
 ablative.life,available,68,3%,8,Science,,,
-septenary.life,available,68,1%,9,Mathematics,,,
+septenary.life,available,68,2%,9,Mathematics,,,
 aberdonian.life,available,68,1%,10,Geography,,,
 achaean.life,available,68,2%,7,Humanities,,,
 abducent.life,available,68,0%,8,Medicine,,,
@@ -190,9 +191,9 @@ overseas.life,resell,68,12%,8,"Hospitality,Travel",25/04/2020 08:57,25/04/2026 0
 accredited.life,available,68,9%,10,"Business,Education,Healthcare",,,
 sevener.life,available,68,1%,7,Mathematics,,,
 abnaki.life,available,68,1%,6,Geography,,,
-fortieth.life,available,68,0%,8,Mathematics,,,
+fortieth.life,available,68,1%,8,Mathematics,,,
 abkhas.life,available,68,0%,6,Geography,,,
-fiftieth.life,available,68,0%,8,Mathematics,,,
+fiftieth.life,available,68,1%,8,Mathematics,,,
 scurvy.life,available,68,3%,6,Humanities,,,
 aroused.life,available,68,3%,7,"Entertainment,Health and Fitness",,,
 disciple.life,resell,68,14%,8,"Education,Religion",09/03/2020 19:02,09/03/2026 19:02,Xin Net Technology Corporation
@@ -204,22 +205,22 @@ five.life,resell,66,26%,4,Mathematics,18/07/2025 15:15,18/07/2026 15:15,"Xiamen 
 abstinent.life,available,66,1%,9,"Health and Fitness,Religion",,,
 clv.life,expiring,66,10%,3,Mathematics,27/08/2024 09:08,27/08/2025 09:08,"GoDaddy.com, LLC"
 xxv.life,available,66,6%,3,Mathematics,,,
-xvi.life,available,66,5%,3,Mathematics,,,
+xvi.life,available,66,4%,3,Mathematics,,,
 latest.life,expired,66,18%,6,Technology,13/06/2023 17:00,13/06/2025 17:00,"Sav.com, LLC"
 xxii.life,available,66,6%,4,Mathematics,,,
-sextet.life,available,66,1%,6,Entertainment,,,
-fifty.life,resell,66,12%,5,Mathematics,22/03/2023 17:03,22/03/2026 17:03,Xin Net Technology Corporation
+sextet.life,available,66,2%,6,Entertainment,,,
+fifty.life,resell,66,13%,5,Mathematics,22/03/2023 17:03,22/03/2026 17:03,Xin Net Technology Corporation
 xxvi.life,available,66,3%,4,Mathematics,,,
 eighty.life,available,66,6%,6,Mathematics,,,
 acappella.life,available,66,6%,10,Entertainment,,,
 accessary.life,available,66,1%,9,"Business,Law,Technology",,,
 teenager.life,resell,66,4%,8,"Education,Entertainment,Healthcare",21/09/2023 15:15,21/09/2025 15:15,"Chengdu West Dimension Digital Technology Co., Ltd."
-xviii.life,available,66,5%,5,Mathematics,,,
+xviii.life,available,66,4%,5,Mathematics,,,
 performing.life,resell,66,6%,10,Entertainment,28/07/2023 15:15,28/07/2026 15:15,"DNSPod, Inc."
 modish.life,resell,66,5%,6,Fashion,13/01/2025 15:15,13/01/2026 15:15,"Sav.com, LLC - 32"
 adopted.life,resell,66,4%,7,"Education,Healthcare",09/06/2025 15:15,09/06/2026 15:15,"Sav.com, LLC - 34"
 acrobatic.life,available,66,4%,9,"Entertainment,Sports",,,
-tenner.life,available,66,5%,6,Finance,,,
+tenner.life,available,66,4%,6,Finance,,,
 acervate.life,available,66,1%,8,Science,,,
 buzzing.life,expiring,66,7%,7,"Entertainment,Media,Technology",26/08/2022 14:34,26/08/2025 14:34,Mesh Digital Limited
 century.life,resell,66,17%,7,Education,25/12/2016 21:13,25/12/2025 21:13,"Chengdu West Dimension Digital Technology Co., Ltd."
@@ -240,7 +241,7 @@ twodozen.life,available,62,1%,9,Mathematics,,,
 activistic.life,available,62,1%,10,"Humanities,Politics",,,
 accrued.life,available,62,2%,7,"Banking,Finance,Insurance",,,
 accusing.life,available,62,1%,8,Law,,,
-longdozen.life,available,62,2%,10,Mathematics,,,
+longdozen.life,available,62,1%,10,Mathematics,,,
 quartet.life,resell,62,7%,7,"Arts,Entertainment",04/10/2019 09:06,04/10/2025 09:06,Dynadot Inc
 acidic.life,available,62,5%,6,"Food and Beverage,Science",,,
 exculpated.life,available,62,1%,10,"Humanities,Law,Politics",,,
@@ -269,30 +270,30 @@ annexal.life,available,60,1%,7,"Agriculture,Manufacturing,Retail",,,
 cxl.life,available,60,7%,3,Mathematics,,,
 abashed.life,available,60,1%,7,Humanities,,,
 cautionary.life,available,60,1%,10,"Business,Education,Healthcare",,,
-cxx.life,available,60,10%,3,Mathematics,,,
+cxx.life,available,60,9%,3,Mathematics,,,
 acceptive.life,available,60,1%,9,"Education,Healthcare",,,
 eightysix.life,available,60,7%,10,Mathematics,,,
 cxxv.life,available,60,1%,4,Mathematics,,,
 cxlv.life,available,60,2%,4,Mathematics,,,
-cxxx.life,available,60,4%,4,Mathematics,,,
+cxxx.life,available,60,3%,4,Mathematics,,,
 idolised.life,available,60,1%,8,"Entertainment,Fashion,Retail",,,
 adnexal.life,available,60,1%,7,"Agriculture,Manufacturing,Retail",,,
-clx.life,available,60,10%,3,Mathematics,,,
+clx.life,available,60,8%,3,Mathematics,,,
 idolized.life,available,60,3%,8,"Entertainment,Fashion,Retail",,,
 cxv.life,available,60,4%,3,Mathematics,,,
 xcl.life,available,60,5%,3,Mathematics,,,
 adnate.life,available,60,1%,6,"Agriculture,Manufacturing,Retail",,,
-cxxxv.life,available,60,2%,5,Mathematics,,,
+cxxxv.life,available,60,1%,5,Mathematics,,,
 tercet.life,available,59,2%,6,"Arts,Entertainment,Media",,,
 abridged.life,available,58,4%,8,Media,,,
-cypher.life,resell,58,29%,6,Mathematics,16/04/2025 15:15,16/04/2026 15:15,"Sav.com, LLC - 23"
+cypher.life,resell,58,28%,6,Mathematics,16/04/2025 15:15,16/04/2026 15:15,"Sav.com, LLC - 23"
 centesimal.life,available,58,1%,10,Mathematics,,,
 lxxviii.life,available,58,1%,7,Mathematics,,,
 abuzz.life,available,58,5%,5,"Entertainment,Media,Technology",,,
 lxxx.life,available,58,2%,4,Mathematics,,,
 addible.life,available,58,2%,7,"Engineering,Mathematics,Science",,,
 seventy.life,available,58,7%,7,Mathematics,,,
-sixtyone.life,available,58,3%,9,Mathematics,,,
+sixtyone.life,available,58,5%,9,Mathematics,,,
 enwrapped.life,available,58,0%,9,"Entertainment,Fashion,Media",,,
 twelfth.life,available,58,2%,7,Mathematics,,,
 acyclic.life,available,58,4%,7,"Engineering,Mathematics,Science",,,
@@ -308,36 +309,36 @@ ache.life,expired,58,7%,4,Healthcare,19/06/2015 01:28,19/06/2025 01:28,"GoDaddy.
 accented.life,available,58,3%,8,"Arts,Entertainment",,,
 closeto.life,available,58,3%,8,"Business,Media,Technology",,,
 tetrad.life,available,58,5%,6,Mathematics,,,
-seven.life,resell,58,36%,5,Mathematics,23/02/2018 19:46,23/02/2026 19:46,"Chengdu West Dimension Digital Technology Co., Ltd."
+seven.life,resell,58,35%,5,Mathematics,23/02/2018 19:46,23/02/2026 19:46,"Chengdu West Dimension Digital Technology Co., Ltd."
 accoutred.life,available,58,1%,9,"Fashion,Manufacturing,Retail",,,
 adient.life,available,58,4%,6,"Medicine,Science",,,
 offhanded.life,available,58,1%,9,Entertainment,,,
 adjustive.life,available,58,1%,9,"Manufacturing,Retail,Technology",,,
 accretive.life,available,58,6%,9,"Banking,Finance,Insurance",,,
-pentad.life,available,58,2%,6,Mathematics,,,
+pentad.life,available,58,3%,6,Mathematics,,,
 niner.life,available,58,5%,5,Mathematics,,,
 sixer.life,available,58,5%,5,Sports,,,
-hexad.life,available,58,4%,5,Mathematics,,,
+hexad.life,available,58,5%,5,Mathematics,,,
 eighter.life,available,58,2%,7,Mathematics,,,
 alacarte.life,expired,58,11%,10,Food and Beverage,20/06/2024 19:45,20/06/2025 19:45,"Spaceship, Inc."
-heptad.life,available,58,1%,6,Mathematics,,,
+heptad.life,available,58,2%,6,Mathematics,,,
 potbellied.life,available,56,0%,10,"Health and Fitness,Medicine",,,
-thirtyone.life,available,56,5%,10,Mathematics,,,
+thirtyone.life,available,56,4%,10,Mathematics,,,
 lviii.life,available,56,1%,5,Mathematics,,,
 accoutered.life,available,56,0%,10,"Fashion,Manufacturing,Retail",,,
-fortysix.life,available,56,3%,9,Mathematics,,,
+fortysix.life,available,56,4%,9,Mathematics,,,
 thirtysix.life,available,56,5%,10,Mathematics,,,
 xxxiii.life,available,56,2%,6,Mathematics,,,
 lii.life,available,56,7%,3,Mathematics,,,
-xliv.life,available,56,2%,4,Mathematics,,,
+xliv.life,available,56,3%,4,Mathematics,,,
 fiftynine.life,available,56,4%,10,Mathematics,,,
 admittable.life,available,56,1%,10,"Education,Healthcare,Hospitality",,,
 admissive.life,available,56,1%,9,"Education,Healthcare,Hospitality",,,
-lvii.life,available,56,1%,4,Mathematics,,,
+lvii.life,available,56,2%,4,Mathematics,,,
 xlii.life,available,56,5%,4,Mathematics,,,
 xlviii.life,available,56,1%,6,Mathematics,,,
 fortynine.life,available,56,3%,10,Mathematics,,,
-fortyone.life,available,56,4%,9,Mathematics,,,
+fortyone.life,available,56,5%,9,Mathematics,,,
 liii.life,available,56,4%,4,Mathematics,,,
 appressed.life,available,56,0%,9,"Agriculture,Manufacturing,Retail",,,
 xxxii.life,available,56,1%,5,Mathematics,,,
@@ -360,14 +361,14 @@ xxxiv.life,available,56,1%,5,Mathematics,,,
 xxxvii.life,available,56,2%,6,Mathematics,,,
 admittible.life,available,56,1%,10,"Education,Healthcare,Hospitality",,,
 xxiv.life,available,56,5%,4,Mathematics,,,
-thirtytwo.life,available,56,5%,10,Mathematics,,,
-fiftyfour.life,available,56,3%,10,Mathematics,,,
+thirtytwo.life,available,56,4%,10,Mathematics,,,
+fiftyfour.life,available,56,4%,10,Mathematics,,,
 xlvii.life,available,56,2%,5,Mathematics,,,
-xxiii.life,available,56,5%,5,Mathematics,,,
+xxiii.life,available,56,4%,5,Mathematics,,,
 triad.life,resell,56,15%,5,Arts,20/01/2024 15:15,20/01/2026 15:15,Xin Net Technology Corporation
 xxxv.life,available,56,4%,4,Mathematics,,,
 fiftytwo.life,available,56,6%,9,Mathematics,,,
-ilx.life,available,56,5%,3,Mathematics,,,
+ilx.life,available,56,6%,3,Mathematics,,,
 acoustical.life,available,54,4%,10,Science,,,
 monitory.life,available,54,3%,8,"Business,Education,Healthcare",,,
 accursed.life,available,54,3%,8,"Entertainment,Media,Religion",,,
@@ -385,15 +386,15 @@ adjuratory.life,available,54,0%,10,"Law,Politics,Religion",,,
 adpressed.life,available,54,0%,9,"Agriculture,Manufacturing,Retail",,,
 achy.life,available,54,3%,4,Healthcare,,,
 quaternion.life,available,54,6%,10,Mathematics,,,
-deuceace.life,available,54,2%,9,Sports,,,
+deuceace.life,available,54,1%,9,Sports,,,
 adducent.life,available,54,1%,8,"Engineering,Mathematics,Science",,,
 deserted.life,available,54,3%,8,"Hospitality,Real Estate",,,
 unnatural.life,available,54,4%,9,"Medicine,Science",,,
 abhorrent.life,available,54,1%,9,Humanities,,,
-threescore.life,available,54,1%,10,Mathematics,,,
+threescore.life,available,54,2%,10,Mathematics,,,
 adducting.life,available,54,1%,9,"Engineering,Mathematics,Science",,,
 adductive.life,available,54,0%,9,"Engineering,Mathematics,Science",,,
-fortyfive.life,available,54,4%,10,Mathematics,,,
+fortyfive.life,available,54,5%,10,Mathematics,,,
 adaxial.life,available,54,2%,7,Science,,,
 quatern.life,available,54,2%,7,Mathematics,,,
 admonitory.life,available,54,0%,10,"Business,Education,Healthcare",,,
@@ -413,8 +414,8 @@ lxvii.life,available,52,1%,5,Mathematics,,,
 abominable.life,available,52,2%,10,"Entertainment,Humanities",,,
 uphill.life,available,52,7%,6,"Sports,Transportation,Travel",,,
 ninetytwo.life,available,52,4%,10,Mathematics,,,
-lxii.life,available,52,1%,4,Mathematics,,,
-lxxiii.life,available,52,1%,6,Mathematics,,,
+lxii.life,available,52,2%,4,Mathematics,,,
+lxxiii.life,available,52,2%,6,Mathematics,,,
 lxiv.life,available,52,3%,4,Mathematics,,,
 repugnant.life,available,52,1%,9,Humanities,,,
 tierce.life,available,52,3%,6,General,,,
@@ -427,12 +428,12 @@ xcviii.life,available,52,1%,6,Mathematics,,,
 lxxvi.life,available,52,1%,5,Mathematics,,,
 lxv.life,available,52,5%,3,Mathematics,,,
 ninetysix.life,available,52,4%,10,Mathematics,,,
-lxviii.life,available,52,1%,6,Mathematics,,,
+lxviii.life,available,52,2%,6,Mathematics,,,
 ablated.life,available,52,1%,7,Science,,,
 lxxxvi.life,available,52,1%,6,Mathematics,,,
-lxxi.life,available,52,1%,4,Mathematics,,,
+lxxi.life,available,52,2%,4,Mathematics,,,
 abstruse.life,available,52,5%,8,"Humanities,Mathematics,Science",,,
-sixtysix.life,available,52,4%,9,Mathematics,,,
+sixtysix.life,available,52,5%,9,Mathematics,,,
 decumbent.life,available,52,1%,9,"Healthcare,Medicine,Science",,,
 adenoidal.life,available,52,1%,9,"Health and Fitness,Medicine,Science",,,
 lxxxv.life,available,52,1%,5,Mathematics,,,
@@ -443,7 +444,7 @@ lxxii.life,available,52,1%,5,Mathematics,,,
 eightyone.life,available,52,3%,10,Mathematics,,,
 lxxiv.life,available,52,1%,5,Mathematics,,,
 abysmal.life,available,52,4%,7,"Arts,Entertainment,Media",,,
-lxxv.life,available,52,1%,4,Mathematics,,,
+lxxv.life,available,52,2%,4,Mathematics,,,
 xciv.life,available,52,2%,4,Mathematics,,,
 ninetyone.life,available,52,5%,10,Mathematics,,,
 repulsive.life,available,52,1%,9,Humanities,,,
