@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .LIFE one-word domains still available to buy.
 
-This dataset contains 3,436 .LIFE one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,678 .LIFE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.LIFE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=life-oneword-domains&utm_content=description.top) (3,433) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.LIFE one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/life-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/life-oneword-domains/blob/main/life.csv"><b>⬇️ CSV (3.44K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/life-oneword-domains/blob/main/life.json"><b>⬇️ JSON (3.44K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/life-oneword-domains/blob/main/life.csv"><b>⬇️ CSV (3.68K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/life-oneword-domains/blob/main/life.json"><b>⬇️ JSON (3.68K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=life-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.43K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -29,7 +29,7 @@ If you want to search & filters the complete database of [.LIFE one word domains
 | abatic.life     | available | 54       | 2%     | 6      |                                                     |                  |                  |
 | abaxial.life    | available | 54       | 2%     | 7      |                                                     |                  |                  |
 | abbatial.life   | available | 50       | 1%     | 8      |                                                     |                  |                  |
-| abc.life        | resell    | 102      | 41%    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. | 17/09/2014 16:00 | 17/09/2026 16:00 |
+| abc.life        | resell    | 102      | 39%    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. | 17/09/2014 16:00 | 17/09/2026 16:00 |
 | abdicable.life  | available | 50       | 1%     | 9      |                                                     |                  |                  |
 | abdominal.life  | available | 82       | 5%     | 9      |                                                     |                  |                  |
 | abdominous.life | available | 56       | 1%     | 10     |                                                     |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.LIFE one word domains
 | abhorrent.life  | available | 54       | 3%     | 9      |                                                     |                  |                  |
 | abiding.life    | resell    | 106      | 5%     | 7      | DNSPod, Inc.                                        | 04/07/2020 17:13 | 04/07/2026 17:13 |
 | abient.life     | available | 54       | 1%     | 6      |                                                     |                  |                  |
-| ability.life    | resell    | 92       | 18%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. | 02/11/2018 11:14 | 02/11/2025 11:14 |
+| ability.life    | resell    | 92       | 16%    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. | 02/11/2018 11:14 | 02/11/2026 11:14 |
 | abject.life     | available | 94       | 8%     | 6      |                                                     |                  |                  |
 | abkhas.life     | available | 68       | 1%     | 6      |                                                     |                  |                  |
 | abkhasian.life  | available | 78       | 1%     | 9      |                                                     |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.LIFE one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/life-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/life-oneword-domains/blob/main/life.csv"><b>⬇️ CSV (3.44K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/life-oneword-domains/blob/main/life.json"><b>⬇️ JSON (3.44K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/life-oneword-domains/blob/main/life.csv"><b>⬇️ CSV (3.68K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/life-oneword-domains/blob/main/life.json"><b>⬇️ JSON (3.68K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=life-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.43K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.LIFE one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
