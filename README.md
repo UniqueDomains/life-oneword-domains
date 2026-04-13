@@ -69,20 +69,20 @@ print(df.head())
 | wireless.life   | premium   | $260      | $260          | 106            | 24     | 8      | namecheap                                           |
 | overnight.life  | available | $2.99     | $48.99        | 112            | 16     | 9      | name.com                                            |
 | adolescent.life | resell    | $2.99     | $43.99        | 86             | 6      | 10     | Dynadot Inc                                         |
-| rag.life        | premium   | $82.50    | $82.50        | 54             | 23     | 3      | name.com                                            |
+| rag.life        | premium   | $82.50    | $82.50        | 54             | 22     | 3      | name.com                                            |
 | september.life  | available | $2.99     | —             | 76             | 16     | 9      | name.com                                            |
 | windy.life      | resell    | —         | —             | 90             | 98     | 5      | Sav.com, LLC - 4                                    |
 | ago.life        | premium   | $42.90    | $42.90        | 66             | 19     | 3      | namecheap                                           |
 | sink.life       | available | $2.99     | —             | 66             | 15     | 4      | name.com                                            |
 | indian.life     | resell    | —         | —             | 86             | 98     | 6      | Unstoppable Domains Inc                             |
-| sly.life        | premium   | $82.50    | $82.50        | 60             | 19     | 3      | name.com                                            |
+| eastern.life    | premium   | $123.75   | $123.75       | 70             | 18     | 7      | name.com                                            |
 | disneyland.life | available | $2.99     | —             | 90             | 14     | 10     | name.com                                            |
 | billion.life    | resell    | —         | —             | 82             | 98     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| eastern.life    | premium   | $123.75   | $123.75       | 70             | 18     | 7      | name.com                                            |
-| corrupt.life    | available | $2.99     | $48.99        | 80             | 14     | 7      | name.com                                            |
+| sly.life        | premium   | $82.50    | $82.50        | 60             | 18     | 3      | name.com                                            |
+| alamode.life    | available | $2.99     | $48.99        | 96             | 13     | 9      | name.com                                            |
 | taiwan.life     | resell    | —         | —             | 66             | 93     | 6      | Dynadot Inc                                         |
 | xix.life        | premium   | $2.99     | $48.99        | 86             | 14     | 3      | name.com                                            |
-| alamode.life    | available | $2.99     | $48.99        | 96             | 13     | 9      | name.com                                            |
+| corrupt.life    | available | $2.99     | $48.99        | 80             | 13     | 7      | name.com                                            |
 | affirm.life     | resell    | —         | —             | 80             | 81     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
