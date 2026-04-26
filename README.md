@@ -1,22 +1,22 @@
-# Available .LIFE One-Word Domains (7,071)
+# Available .LIFE One-Word Domains (9,061)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C073%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C071%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C061%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .life one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .life one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,061 domains** on the canonical page below.
 
-**Public extract:** 7,073 rows · **Live catalog:** 7,071 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,061 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/life`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LIFE one-word domain 
 
 ### Files
 
-- `life.csv` — public CSV extract (7,073 rows)
-- `life.json` — public JSON extract (7,073 rows)
+- `life.csv` — public CSV extract (1,000 rows)
+- `life.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| rats.life       | available | $2.99     | —             | 70             | 17     | 4      | name.com                                            |
-| nassau.life     | resell    | $2.99     | —             | 74             | 10     | 6      | Sav.com, LLC                                        |
-| wireless.life   | premium   | $260      | $260          | 106            | 24     | 8      | namecheap                                           |
-| overnight.life  | available | $2.99     | $48.99        | 112            | 16     | 9      | name.com                                            |
-| adolescent.life | resell    | $2.99     | $43.99        | 86             | 6      | 10     | Dynadot Inc                                         |
-| rag.life        | premium   | $82.50    | $82.50        | 54             | 22     | 3      | name.com                                            |
-| september.life  | available | $2.99     | —             | 76             | 16     | 9      | name.com                                            |
-| windy.life      | resell    | —         | —             | 90             | 98     | 5      | Sav.com, LLC - 4                                    |
-| ago.life        | premium   | $42.90    | $42.90        | 66             | 19     | 3      | namecheap                                           |
-| sink.life       | available | $2.99     | —             | 66             | 15     | 4      | name.com                                            |
-| indian.life     | resell    | —         | —             | 86             | 98     | 6      | Unstoppable Domains Inc                             |
-| eastern.life    | premium   | $123.75   | $123.75       | 70             | 18     | 7      | name.com                                            |
-| disneyland.life | available | $2.99     | —             | 90             | 14     | 10     | name.com                                            |
-| billion.life    | resell    | —         | —             | 82             | 98     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| sly.life        | premium   | $82.50    | $82.50        | 60             | 18     | 3      | name.com                                            |
-| alamode.life    | available | $2.99     | $48.99        | 96             | 13     | 9      | name.com                                            |
-| taiwan.life     | resell    | —         | —             | 66             | 93     | 6      | Dynadot Inc                                         |
-| xix.life        | premium   | $2.99     | $48.99        | 86             | 14     | 3      | name.com                                            |
-| corrupt.life    | available | $2.99     | $48.99        | 80             | 13     | 7      | name.com                                            |
-| affirm.life     | resell    | —         | —             | 80             | 81     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| HarryPotter.life        | available | $46.48    | —             | 72             | 20     | 12     | namecheap                                    |
+| happy.life              | resell    | —         | —             | 78             | 47     | 5      | Porkbun LLC                                  |
+| magazines.life          | premium   | $560      | $1,120        | 60             | 11     | 9      | namecheap                                    |
+| whitefish.life          | available | $2.99     | —             | 68             | 18     | 10     | name.com                                     |
+| robots.life             | resell    | —         | —             | 62             | 47     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
+| VirginiaBeach.life      | premium   | $46.20    | $92.40        | 58             | 9      | 14     | namecheap                                    |
+| templates.life          | available | $2.99     | —             | 54             | 17     | 9      | name.com                                     |
+| energy.life             | resell    | —         | —             | 78             | 42     | 6      | Porkbun LLC                                  |
+| HoChiMinhCity.life      | premium   | $46.20    | $92.40        | 64             | 7      | 16     | namecheap                                    |
+| dataflow.life           | available | $2.99     | —             | 70             | 16     | 9      | name.com                                     |
+| Tools.life              | resell    | —         | —             | 56             | 40     | 5      | Spaceship, Inc.                              |
+| DistrictofColumbia.life | premium   | $46.20    | $92.40        | 52             | 4      | 20     | namecheap                                    |
+| onethird.life           | available | $2.99     | —             | 44             | 16     | 9      | name.com                                     |
+| lets.life               | resell    | —         | —             | 77             | 39     | 4      | Squarespace Domains II LLC                   |
+| Henri.life              | available | $46.48    | —             | 66             | 15     | 5      | namecheap                                    |
+| neuroscience.life       | resell    | —         | —             | 80             | 37     | 12     | Porkbun LLC                                  |
+| locks.life              | available | $2.99     | —             | 66             | 14     | 5      | name.com                                     |
+| tickets.life            | resell    | —         | —             | 64             | 34     | 7      | Spaceship, Inc.                              |
+| Gregor.life             | available | $46.48    | —             | 66             | 14     | 6      | namecheap                                    |
+| payments.life           | resell    | —         | —             | 58             | 33     | 8      | Dynadot Inc                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,073-row public sample | 7,071 live domains                               |
+| 1,000-row public sample | 9,061 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIFE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIFE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
