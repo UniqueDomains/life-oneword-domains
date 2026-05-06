@@ -402,7 +402,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2c45905e-9404-4fd6-9de1-8dbbf1d5b30f,intermittently.life,available,2.99,,48,1,14,name.com,,
 2c5164c1-b4e6-4015-b610-6e5643628406,nodded.life,available,2.99,,56,2,6,name.com,,
 2c5831d1-fc7b-49ed-8886-7c05dfc1e062,tendered.life,available,2.99,,53,3,8,name.com,,
-2c5d053c-1051-440a-94bc-0b163a82bc2f,pound.life,resell,,,64,14,5,"Sav.com, LLC - 28",07/03/2026 15:15,07/03/2027 15:15
+2c5d053c-1051-440a-94bc-0b163a82bc2f,pound.life,resell,,,64,12,5,"Sav.com, LLC - 28",07/03/2026 15:15,07/03/2027 15:15
 2c744abc-eb3c-40fe-af23-cd8117de5c0a,Flags.life,resell,,,64,15,5,"Sav.com, LLC - 21",02/12/2025 15:15,02/12/2026 15:15
 2cc18c70-1d29-460d-bcfa-07d2846e1bc7,flashdrives.life,available,2.99,,62,2,12,name.com,,
 2d14e4fd-525e-4329-b54f-4c2c4c387346,snowed.life,available,2.99,,52,3,6,name.com,,
@@ -494,7 +494,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 35ab5cd8-040d-4374-a819-e705d3581167,getused.life,available,2.99,,72,2,8,name.com,,
 35eaa347-0a9e-4f6e-beb3-31f6c08e1b27,flipflops.life,available,2.99,,52,5,10,name.com,,
 35ead9dd-7c82-45d6-bc07-5a7af171f89c,ifpossible.life,available,2.99,,64,1,11,name.com,,
-36040a23-7bc8-4f06-a5c6-2da6718193b4,energy.life,resell,,,78,42,6,Porkbun LLC,12/09/2017 04:25,12/09/2026 04:25
+36040a23-7bc8-4f06-a5c6-2da6718193b4,energy.life,resell,,,78,43,6,Porkbun LLC,12/09/2017 04:25,12/09/2026 04:25
 36120d47-9eba-4d22-8a3f-b7b536054f4c,asquoted.life,available,2.99,,48,1,9,name.com,,
 361edb39-a1e6-4c31-9657-c7c62b73f3c2,whitewine.life,available,2.99,,76,6,10,name.com,,
 362bc011-a611-4d49-be2b-ae8d41490eb6,toes.life,available,2.99,,58,8,4,name.com,,
