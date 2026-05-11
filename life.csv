@@ -314,7 +314,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 223869a4-e946-4258-b98a-936534a86324,bedframe.life,available,2.99,,80,3,9,name.com,,
 225d6b39-bdf1-4ee9-a086-d30dd263c8d6,estates.life,resell,,,50,16,7,"DNSPod, Inc.",05/11/2024 17:00,05/11/2026 17:00
 22810f7d-7d5c-4587-bced-491dbb422e9c,profiled.life,available,2.99,,52,7,8,name.com,,
-22904791-67c4-4d88-945f-10403b77c05b,unstoppable.life,resell,,,82,22,11,"Xiamen ChinaSource Internet Service Co., Ltd",05/12/2025 15:16,05/12/2026 15:16
+22904791-67c4-4d88-945f-10403b77c05b,unstoppable.life,resell,,,82,23,11,"Xiamen ChinaSource Internet Service Co., Ltd",05/12/2025 15:16,05/12/2026 15:16
 22a6cc2f-3882-4c19-8b25-9952519c6f98,railways.life,available,2.99,,51,6,8,name.com,,
 22ce3ac8-a82e-4295-93dc-62185e5b24ad,Cheetos.life,available,2.99,,76,7,7,name.com,,
 22f93beb-daa2-4f2c-bc16-eec7808c37cd,provided.life,available,2.99,,48,3,8,name.com,,
@@ -359,7 +359,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 269b9a97-8e2f-47e3-8e04-59099bb605da,woes.life,available,2.99,,46,4,4,name.com,,
 26c738c8-04ba-4e38-8851-dc1ebec4ceec,onestepahead.life,available,2.99,,58,4,14,name.com,,
 26de79ee-6211-4ab1-b8c2-acb985ef2c36,believeme.life,available,2.99,,68,3,10,name.com,,
-26e7ccbd-31da-486a-ba6b-8dc0d5fa16da,crimes.life,available,2.99,,64,11,6,name.com,,
+26e7ccbd-31da-486a-ba6b-8dc0d5fa16da,crimes.life,available,2.99,,64,12,6,name.com,,
 26ea411c-8060-4c65-9162-c4e0fb36fd47,commented.life,available,2.99,,48,2,9,name.com,,
 27341cf1-c3ad-44c7-ae85-5376bec0e4e4,remained.life,available,2.99,,50,2,8,name.com,,
 2746d854-9d82-4da9-b06c-c86a5a4adcb4,comeknocking.life,available,2.99,,66,1,13,name.com,,
@@ -916,7 +916,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6304340e-5b59-4e63-9398-9a4fa5344259,pullover.life,available,2.99,,74,4,9,name.com,,
 6308c6da-53f0-446c-afcf-2c7137071106,coffeebush.life,available,2.99,,80,1,11,name.com,,
 631f87a5-411e-49cc-8d0c-f4fef5778861,leaveoff.life,available,2.99,,72,1,9,name.com,,
-633abdcb-ddb1-4192-a390-eecba005f88c,Googler.life,available,46.48,,80,6,7,namecheap,,
+633abdcb-ddb1-4192-a390-eecba005f88c,Googler.life,available,46.48,,80,7,7,namecheap,,
 635d19d5-347d-4c6e-b07b-a0d5ae2e86cb,newsfeed.life,available,2.99,,54,8,9,name.com,,
 6362e0bb-3116-4a75-894d-13c48e8f64f3,splits.life,available,2.99,,70,9,6,name.com,,
 63c8bbf9-86fa-4402-81a7-474495c3524f,calls.life,resell,,,50,16,5,"Sav.com, LLC - 43",16/08/2025 15:15,16/08/2026 15:15
