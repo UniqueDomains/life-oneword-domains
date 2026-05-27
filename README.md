@@ -80,9 +80,9 @@ print(df.head())
 | Tools.life         | resell    | —         | —             | 56             | 40     | 5      | Spaceship, Inc.                                           |
 | alternatives.life  | available | $2.99     | —             | 58             | 13     | 12     | name.com                                                  |
 | lets.life          | resell    | —         | —             | 77             | 39     | 4      | Squarespace Domains II LLC                                |
-| monkeys.life       | available | $2.99     | —             | 56             | 13     | 7      | name.com                                                  |
+| RosettaStone.life  | available | $46.48    | —             | 58             | 13     | 13     | namecheap                                                 |
 | prompts.life       | resell    | —         | —             | 54             | 39     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| screens.life       | available | $2.99     | —             | 54             | 13     | 7      | name.com                                                  |
+| monkeys.life       | available | $2.99     | —             | 56             | 13     | 7      | name.com                                                  |
 | neuroscience.life  | resell    | —         | —             | 80             | 37     | 12     | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
