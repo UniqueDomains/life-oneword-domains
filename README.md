@@ -1,10 +1,10 @@
-# Available .LIFE One-Word Domains (9,495)
+# Available .LIFE One-Word Domains (9,499)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C495%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C499%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .life one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,495 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,499 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,495 domains · **Median ask:** $6.55 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,499 domains · **Median ask:** $5.42 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/life`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/life`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LIFE one-word domain 
 
 ### Files
 
-- `life.csv` — public CSV extract (1,000 rows)
-- `life.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `life.csv`, public CSV extract (1,000 rows)
+- `life.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| HarryPotter.life   | available | $46.48    | —             | 72             | 20     | 12     | namecheap                                                 |
-| happy.life         | resell    | —         | —             | 78             | 48     | 5      | Porkbun LLC                                               |
-| magazines.life     | premium   | $560      | $1,120        | 60             | 11     | 9      | namecheap                                                 |
-| Henri.life         | available | $46.48    | —             | 66             | 15     | 5      | namecheap                                                 |
-| robots.life        | resell    | —         | —             | 62             | 47     | 6      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| VirginiaBeach.life | premium   | $46.20    | $92.40        | 58             | 9      | 14     | namecheap                                                 |
-| locks.life         | available | $2.99     | —             | 66             | 14     | 5      | name.com                                                  |
-| energy.life        | resell    | —         | —             | 78             | 43     | 6      | Porkbun LLC                                               |
-| HoChiMinhCity.life | premium   | $46.20    | $92.40        | 64             | 7      | 16     | namecheap                                                 |
-| rollout.life       | available | $2.99     | —             | 72             | 13     | 8      | name.com                                                  |
-| its.life           | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC                                          |
-| makeitcount.life   | premium   | —         | —             | 72             | 7      | 13     | —                                                         |
-| BRAS.life          | available | $46.48    | —             | 70             | 13     | 4      | namecheap                                                 |
-| Tools.life         | resell    | —         | —             | 56             | 40     | 5      | Spaceship, Inc.                                           |
-| alternatives.life  | available | $2.99     | —             | 58             | 13     | 12     | name.com                                                  |
-| lets.life          | resell    | —         | —             | 77             | 39     | 4      | Squarespace Domains II LLC                                |
-| RosettaStone.life  | available | $46.48    | —             | 58             | 13     | 13     | namecheap                                                 |
-| prompts.life       | resell    | —         | —             | 54             | 39     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| monkeys.life       | available | $2.99     | —             | 56             | 13     | 7      | name.com                                                  |
-| neuroscience.life  | resell    | —         | —             | 80             | 37     | 12     | Porkbun LLC                                               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| out.life        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| bad.life        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                         |
+| off.life        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| bang.life       | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| smooth.life     | resell    | —         | —             | high           | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| lick.life       | available | $2.99     | —             | medium         | low    | 4      | name.com                                                |
+| sink.life       | resell    | $2.99     | —             | medium         | low    | 4      | Sav.com, LLC                                            |
+| arabic.life     | premium   | $69.30    | $138.60       | high           | low    | 6      | namecheap                                               |
+| nyse.life       | available | $2.99     | —             | medium         | low    | 4      | name.com                                                |
+| xmas.life       | resell    | $2.99     | —             | high           | low    | 4      | Sav.com, LLC                                            |
+| dramatic.life   | premium   | $123.75   | $123.75       | medium         | low    | 8      | name.com                                                |
+| took.life       | available | $2.99     | —             | low            | low    | 4      | name.com                                                |
+| hover.life      | resell    | $2.99     | —             | medium         | low    | 5      | Sav.com, LLC                                            |
+| soldiers.life   | premium   | $46.20    | $92.40        | medium         | low    | 8      | namecheap                                               |
+| wore.life       | available | $2.99     | —             | low            | low    | 4      | name.com                                                |
+| doable.life     | resell    | $2.99     | —             | high           | low    | 6      | DiaMatrix C.C.                                          |
+| negotiate.life  | premium   | $46.20    | $92.40        | high           | low    | 9      | namecheap                                               |
+| aloud.life      | available | $2.99     | $35.99        | high           | low    | 5      | namesilo                                                |
+| corrupt.life    | resell    | $2.99     | $48.99        | high           | low    | 7      | Sav.com, LLC                                            |
+| MexicoCity.life | premium   | $46.20    | $92.40        | medium         | low    | 11     | namecheap                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,495 live domains                         |
+| 1,000-row public sample | 9,499 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of .life domains, which gives every name a built-in semantic angle. Words like evening.life, feminine.life, and spirits.life read as lifestyle, wellness, identity, or editorial brands, while terms like astound.life or roads.life feel broader and more interpretive. When comparing these domains, focus first on whether the word becomes stronger or narrower with .life attached. A low ask can make experimentation easier, but the real decision is fit: choose names that sound natural when spoken aloud, are easy to remember, and do not create obvious trademark friction from highly distinctive existing brands.
+This list covers 9,499 one-word domain names registered under the .life extension, ranging from simple everyday words like “okay” and “feel” to compound terms like “bedframe” and “getlife.” With a median asking price near $5, most names in this set are accessible for early-stage evaluation before committing to renewal costs. .life domains suit personal, wellness, and lifestyle-oriented projects, making them a practical starting point for founders seeking a short, memorable name and investors scanning for low-cost entry points across a large TLD pool.
 
-- All names in this selection use the .life extension
-- Median ask across the set is 6.56
-- Best fit depends on how naturally the word pairs with .life
-- Check memorability, clarity, and trademark signals first
+- 9,499 one-word .life domains available for evaluation
+- Median asking price near $5 across this selection
+- Mix of short, brandable terms and compound one-word names
+- Updated daily to reflect current .life domain pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIFE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIFE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
