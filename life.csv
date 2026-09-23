@@ -7,7 +7,7 @@ db0486c3-908b-4d0c-8665-3916da533d52,vegetarian.life,resell,,,high,low,10,"Cheng
 ac02bcc2-f944-4fb3-abfa-4e7ce51190c2,granting.life,available,2.99,,high,low,8,name.com,,,
 581e5e83-d844-414f-b444-0eaa54f7979d,nuclear.life,resell,,,high,low,7,"Sav.com, LLC - 3",17/09/2025 15:15,17/09/2026 15:15,
 a19d7b01-13bb-4854-9634-fe15bcc1e45e,giveway.life,available,2.99,35.99,medium,low,8,namesilo,,,
-d569f3f3-9b53-40e8-8298-830f163d6eb5,auriferous.life,available,2.99,35.99,medium,low,10,namesilo,,,
+d569f3f3-9b53-40e8-8298-830f163d6eb5,auriferous.life,available,2.98,46.48,low,low,10,namecheap,,,22/09/2026 13:02
 637b681a-5f7a-403b-baff-66c9403624a1,westbranch.life,available,2.99,,low,low,11,name.com,,,
 fa092d00-68c1-4206-9e44-e077a9e9dff3,amidship.life,available,2.98,46.48,low,low,8,namecheap,,,
 cd460f35-2c2b-45be-92fa-62e0875c052d,heavyhearted.life,available,2.99,,medium,low,13,name.com,,,
@@ -19,9 +19,9 @@ f4d937e1-07b6-42ec-a448-d0a10451eb3d,sailorboy.life,available,2.99,,low,low,10,n
 01866cb9-36ab-4c59-b82a-69b600807919,doubter.life,available,2.98,46.48,low,low,7,namecheap,,,
 aba21cc2-1475-452f-a86c-f10d31021909,say.life,resell,,,medium,low,3,"Spaceship, Inc.",06/05/2023 15:15,06/05/2027 15:15,
 a8ef7b2b-ca37-4cde-a9cf-3ef06e8e6262,domestic.life,resell,,,medium,low,8,Xin Net Technology Corporation,05/07/2020 08:14,05/07/2027 08:14,19/09/2026 12:54
-27241559-ceb7-442a-8988-729fe8bf73f5,esthetical.life,available,2.99,48.99,high,low,10,name.com,,,
+27241559-ceb7-442a-8988-729fe8bf73f5,esthetical.life,available,2.98,46.48,medium,low,10,namecheap,,,21/09/2026 21:22
 4cb726cb-adf1-4e04-b267-1aa7e05ef6b3,judges.life,available,2.99,,medium,low,6,name.com,,,
-b85be3c1-ebae-4851-8edf-b40a1920d063,abroad.life,resell,,,high,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/03/2018 19:43,27/03/2027 19:43,
+b85be3c1-ebae-4851-8edf-b40a1920d063,abroad.life,resell,,,medium,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),27/03/2018 19:43,27/03/2027 19:43,21/09/2026 14:31
 ae5b565c-6498-4a66-a30d-5994ca11ccbc,truly.life,resell,,,high,low,5,"DNSPod, Inc.",16/06/2023 17:00,16/06/2026 17:00,
 8ff10be0-f86b-4d07-885f-9685db1658f6,xmas.life,resell,2.99,,high,low,4,"Sav.com, LLC",25/04/2026 12:46,25/04/2027 12:46,
 695ed086-8379-4d7b-8439-4f5908d29e0a,concentrated.life,available,2.99,35.99,medium,low,12,namesilo,,,
@@ -37,8 +37,8 @@ ea9946cd-2f57-46fe-ae68-91775aa6dd7f,holdopen.life,available,2.99,,high,low,9,na
 ca82838f-a3c3-49ff-a066-6143927acb05,fivesome.life,available,2.98,46.48,low,low,8,namecheap,,,
 eff78aa2-8d95-4f7c-b50a-16791ce12be2,setgoing.life,available,2.99,,low,low,9,name.com,,,
 bb986924-0a03-483d-b718-1996e1a074df,nebula.life,resell,,,high,low,6,Dynadot Inc,20/06/2018 00:48,20/06/2027 00:48,
-f5e56873-4f91-4f94-a5c4-e516bf4bddd9,aussie.life,resell,,,high,low,6,"Spaceship, Inc.",15/03/2021 08:18,15/03/2027 08:18,
-b4e2fe64-08cd-48fb-80f6-31643f8da0e6,abide.life,resell,,,high,low,5,Dynadot Inc,03/11/2019 02:06,03/11/2026 02:06,
+f5e56873-4f91-4f94-a5c4-e516bf4bddd9,aussie.life,resell,,,low,low,6,"Spaceship, Inc.",15/03/2021 08:18,15/03/2027 08:18,22/09/2026 13:32
+b4e2fe64-08cd-48fb-80f6-31643f8da0e6,abide.life,resell,,,medium,low,5,Dynadot Inc,03/11/2019 02:06,03/11/2026 02:06,
 40cab2be-caff-4638-8edb-c73e1cf0a18b,recently.life,available,2.99,,medium,low,8,name.com,,,
 1734ef5f-55e7-40c8-a3dd-2811c954eb67,tyrannical.life,available,2.98,46.48,low,low,10,namecheap,,,07/08/2026 19:12
 f400e36a-55ba-4264-8f6f-feb5a5066c85,maze.life,resell,,,medium,low,4,"DNSPod, Inc.",07/11/2019 23:53,07/11/2026 23:53,
@@ -48,6 +48,7 @@ f400e36a-55ba-4264-8f6f-feb5a5066c85,maze.life,resell,,,medium,low,4,"DNSPod, In
 123e1f80-e967-4e20-a7ad-a7f484fe2471,spiderly.life,available,2.98,46.48,low,low,8,namecheap,,,06/08/2026 11:57
 decf363a-2d25-4568-96a7-95cbf30aac22,archeozoic.life,available,2.98,46.48,low,low,10,namecheap,,,06/08/2026 15:16
 3684ecad-8a87-4cfe-a6cc-c7d1e9bec6a0,trounce.life,available,2.98,46.48,low,low,7,namecheap,,,09/08/2026 05:27
+04ad97a4-3e53-4ffb-9dca-d49e401c6aaf,wacky.life,available,3.49,35.99,low,low,5,namesilo,,,22/09/2026 08:23
 32ae6bfe-d112-440e-b8d8-97262085b4c7,show.life,resell,,,high,low,4,Porkbun LLC,06/10/2016 20:44,06/10/2026 20:44,
 25aa8511-08ea-42c5-a2fa-1a242d62bec9,soil.life,resell,,,high,low,4,"DNSPod, Inc.",23/06/2018 08:11,23/06/2026 08:11,
 bd215a69-4525-4aa5-83e8-ccdaf5d32895,placating.life,available,2.98,46.48,low,low,9,namecheap,,,06/08/2026 06:02
@@ -61,7 +62,7 @@ b8ac6dbd-d5e8-422f-8160-9ec21d9b0e3e,donkey.life,resell,,,medium,low,6,"Sav.com,
 67d6b593-da37-40a9-9fdb-d6a09428cccc,across.life,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",23/12/2018 07:52,23/12/2026 07:52,
 5346b4d8-a3d6-4b70-9cb7-d431a8749652,thirtythree.life,available,,,high,low,12,,,,
 d49f9a2b-9085-4713-91f1-c5de5cf8e522,consultant.life,resell,,,high,low,10,"Spaceship, Inc.",07/07/2025 15:15,07/07/2027 15:15,17/09/2026 20:41
-d14b6ce7-e303-4c9c-bee1-b03131f2a9fa,live.life,resell,,,high,medium,4,"GoDaddy.com, LLC",26/06/2015 16:00,26/06/2028 16:00,
+d14b6ce7-e303-4c9c-bee1-b03131f2a9fa,live.life,resell,,,medium,low,4,"GoDaddy.com, LLC",26/06/2015 16:00,26/06/2028 16:00,22/09/2026 00:11
 b9be6cb1-ad7c-42bf-aef5-b8ed8ecc2eb2,stick.life,resell,,,high,low,5,"DNSPod, Inc.",12/11/2018 12:40,12/11/2026 12:40,
 b0d18df1-38ba-4e8c-8f3f-e6b68f6bc3e3,ballistic.life,available,2.98,46.48,low,low,9,namecheap,,,08/08/2026 10:31
 6c6cd856-33a3-43dc-986a-7bca766e2a3a,respectfully.life,available,2.99,,medium,low,12,name.com,,,
@@ -74,7 +75,7 @@ c1f537f5-a7c8-45da-9125-ee760eb6979d,improvize.life,available,2.98,46.48,medium,
 5cfd578a-1c17-466b-921e-fbecea8081df,reasonably.life,available,2.99,,medium,low,10,name.com,,,
 ab1b1c1f-f4b5-4c2d-9ab3-950f6f9cdb17,trainup.life,available,2.99,,low,low,8,name.com,,,
 19644d68-ce77-4b32-9e82-245485470580,whilst.life,available,2.99,,medium,low,6,name.com,,,
-88c18b7d-2ef8-45d3-ada8-5b023cc528c9,security.life,resell,,,medium,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",04/07/2015 22:08,04/07/2027 22:08,19/09/2026 04:42
+88c18b7d-2ef8-45d3-ada8-5b023cc528c9,security.life,resell,,,medium,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",04/07/2015 22:08,04/07/2027 22:08,23/09/2026 02:48
 8310b8e2-22cc-4f3e-9750-5d31bdac6312,nyse.life,available,2.99,,medium,low,4,name.com,,,
 587386ef-1e9c-472e-90b6-b54db99a0510,goover.life,available,3.49,35.99,low,low,7,namesilo,,,16/09/2026 10:25
 5e9bc2f2-bdce-4740-8ac2-1aa3b4f0947d,complaint.life,available,2.99,35.99,medium,low,9,namesilo,,,
@@ -87,11 +88,10 @@ be141780-5322-449c-b53e-5e8d58d3f37c,everybit.life,available,2.98,46.48,low,low,
 60b7d5aa-b253-4e11-a07a-7b228852fc8e,discspace.life,available,2.99,35.99,high,low,10,namesilo,,,
 ee371bec-0aa9-46b9-a062-0dcede26a2cb,finishup.life,available,2.99,35.99,high,low,9,namesilo,,,
 cb826710-5802-4f6c-9e9f-4e92ecac8404,ifalle.life,available,2.99,,medium,low,7,name.com,,,
-54a914d3-f9b5-4539-a2ae-c209271f18f3,sexy.life,resell,,,high,low,4,"Spaceship, Inc.",14/07/2016 06:20,14/07/2027 06:20,18/09/2026 08:54
+54a914d3-f9b5-4539-a2ae-c209271f18f3,sexy.life,resell,,,medium,low,4,"Spaceship, Inc.",14/07/2016 06:20,14/07/2027 06:20,22/09/2026 07:13
 120b4695-a563-468e-8b02-ece86b15c322,golf.life,resell,,,high,medium,4,"Sav.com, LLC",09/02/2026 18:34,09/02/2027 18:34,
 35089abf-306b-4ffc-9e03-6e8ff8aa56a6,legalheir.life,available,2.99,,medium,low,10,name.com,,,
 f6eb6211-b65b-4b0d-a950-c98f0a478e89,eyecatching.life,available,2.99,35.99,high,low,12,namesilo,,,
-810214a1-752c-4299-a7ab-e431878811b4,aide.life,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",25/08/2023 15:15,25/08/2026 15:15,
 57a1b0b4-34f2-4c01-880d-26352dd215a5,hearable.life,available,2.98,46.48,low,low,8,namecheap,,,07/08/2026 16:35
 7574886d-4b2c-49c1-823c-4accd2a23f18,grownup.life,resell,,,low,low,7,"Sav.com, LLC - 42",15/12/2025 15:15,15/12/2026 15:15,
 13730b2d-773c-45f2-a62f-13476d4775b5,invincible.life,resell,,,high,low,10,"Sav.com, LLC - 37",09/02/2026 15:15,09/02/2027 15:15,
@@ -154,7 +154,7 @@ f8253353-9592-430b-910e-c7c0692065c9,mouthwash.life,available,2.99,,low,low,10,n
 398eb660-548e-4d25-9bfa-67c35d68764b,grass.life,resell,,,medium,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",20/05/2021 18:06,20/05/2027 18:06,
 d93209cc-c918-43f3-9ca2-c7393d13dcae,homoecious.life,available,2.98,46.48,low,low,10,namecheap,,,07/08/2026 19:56
 583d3f79-f1b4-4d58-9563-029b1d736865,recognition.life,available,2.99,,medium,low,11,name.com,,,
-3ab27d30-e3ec-47af-8758-081111a66a79,antique.life,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",15/06/2025 15:16,15/06/2026 15:16,
+3ab27d30-e3ec-47af-8758-081111a66a79,antique.life,resell,,,low,low,7,Xin Net Technology Corporation,15/06/2025 15:16,15/06/2028 15:16,21/09/2026 22:23
 1d134ca3-e4b6-43d4-bdd0-592c9e04ac6f,eyeofthestorm.life,available,2.99,35.99,medium,low,16,namesilo,,,
 fe50cfa1-bac6-46d7-a4da-ce6349cfb8c3,whitevanman.life,available,2.99,,low,low,13,name.com,,,
 fd0a50f9-fabf-4724-9d8e-95c4bf681c6f,true.life,resell,,,high,medium,4,"Sav.com, LLC",28/06/2015 16:00,28/06/2026 16:00,
@@ -208,18 +208,18 @@ ff30f45e-5ba9-4c1a-84ff-af45863c71ec,awed.life,available,,,medium,low,4,,,,
 40a6e7b3-b176-4f02-be96-288bbdd97a4c,specific.life,resell,,,high,low,8,"Sav.com, LLC - 3",14/04/2025 15:15,14/04/2027 15:15,
 a95fb9d8-97dc-4ac6-97ee-1417b589e1d5,redpanda.life,resell,,,high,low,9,"Sav.com, LLC",20/12/2025 20:00,20/12/2026 20:00,
 5c31c22f-7b09-4cc4-9c6d-3a07a3722ce5,foundingfather.life,available,2.99,35.99,high,low,15,namesilo,,,
-b3eea8b2-5a5c-4b2d-9f1c-9a3de316bfb5,atrocious.life,available,2.99,,medium,low,9,name.com,,,
+b3eea8b2-5a5c-4b2d-9f1c-9a3de316bfb5,atrocious.life,available,3.49,35.99,low,low,9,namesilo,,,22/09/2026 11:11
 65cf6b69-2bb0-4fe9-a065-3cefc8645b02,tossacoin.life,available,2.99,,low,low,11,name.com,,,
-715f957e-0deb-4113-89ab-a670bb402da3,accept.life,resell,,,high,low,6,"Sav.com, LLC - 7",17/10/2025 15:15,17/10/2026 15:15,
+715f957e-0deb-4113-89ab-a670bb402da3,accept.life,resell,,,medium,low,6,"Sav.com, LLC - 7",17/10/2025 15:15,17/10/2026 15:15,
 6a6e3f0d-aa47-400d-8f58-b15d1d586193,grandnephew.life,available,2.99,35.99,high,low,11,namesilo,,,
 d12f9c02-eefd-49e0-a5ab-eb08ef0a872d,operahouse.life,available,2.99,,high,low,11,name.com,,,
-d6fbe147-b974-45d1-965d-1a55f3d552c9,prenuptial.life,available,2.99,,high,low,10,name.com,,,
+d6fbe147-b974-45d1-965d-1a55f3d552c9,prenuptial.life,available,3.49,35.99,medium,low,10,namesilo,,,22/09/2026 06:05
 c2225164-cfa9-47ce-8835-48f0fb2622e1,profession.life,resell,,,high,low,10,"Xiamen ChinaSource Internet Service Co., Ltd",18/11/2023 17:00,18/11/2026 17:00,
 ec70a21d-5531-433b-8dd0-8d97ad21a5df,flack.life,available,2.98,46.48,low,low,5,namecheap,,,
 351bef29-2702-40d8-ab31-b5dde03b3c86,problem.life,resell,,,high,low,7,"DNSPod, Inc.",26/04/2018 12:43,26/04/2027 12:43,
 f54ecd78-4c3b-47cd-9ac4-aea9d9d66077,branch.life,resell,,,medium,low,6,"DNSPod, Inc.",01/12/2020 05:12,01/12/2026 05:12,
 e7a9f459-e72d-445e-9034-5d35240e1660,despiteof.life,available,2.99,35.99,medium,low,10,namesilo,,,
-89b8e1b1-b488-418f-8003-cfff626ba4af,arabic.life,premium,69.3,138.6,high,low,6,namecheap,,,
+89b8e1b1-b488-418f-8003-cfff626ba4af,arabic.life,premium,118.8,118.8,medium,low,6,namesilo,,,22/09/2026 07:33
 67848fad-bf95-40ab-a3f1-82286b395d8b,tangle.life,resell,,,high,low,6,"Sav.com, LLC",06/03/2026 19:57,06/03/2027 19:57,
 8d56dc7c-5b77-476a-85ec-302c7a43edbe,pickuptruck.life,available,2.98,46.48,low,low,13,namecheap,,,17/09/2026 14:44
 a0b1efc8-488c-456f-8f3d-903fd25416a1,velocity.life,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",08/12/2020 03:15,08/12/2027 03:15,
@@ -227,13 +227,14 @@ a59482e2-f3fa-4780-8b4f-017a6c423c7f,jolly.life,resell,,,medium,low,5,"Chengdu W
 ff02dbca-bcd8-4063-a0d5-96a0c453b74d,prone.life,available,2.99,,medium,low,5,name.com,,,
 a4d71e1d-f299-421b-8197-a9f376eb58ac,favorable.life,resell,,,medium,low,9,Dynadot Inc,08/12/2025 06:51,08/12/2026 06:51,
 36c5add5-83d4-4179-9b42-24a511b7fab5,waters.life,resell,,,medium,low,6,"GoDaddy.com, LLC",02/04/2020 08:08,02/04/2027 08:08,
-6c3d3b95-c867-449c-9113-ec944a995dd0,broadcast.life,resell,,,medium,low,9,Xin Net Technology Corporation,28/10/2018 08:32,28/10/2027 08:32,19/09/2026 05:03
-b7de479e-deb6-404a-aecc-4d1d4d438a7b,absolute.life,resell,,,high,low,8,Xin Net Technology Corporation,02/03/2019 13:58,02/03/2027 13:58,
-9c905be2-76dd-4b17-a724-e498e4afb6fc,best.life,resell,,,high,medium,4,"GoDaddy.com, LLC",28/06/2015 16:08,28/06/2026 16:08,
+6c3d3b95-c867-449c-9113-ec944a995dd0,broadcast.life,resell,,,medium,low,9,Xin Net Technology Corporation,28/10/2018 08:32,28/10/2027 08:32,23/09/2026 04:24
+b7de479e-deb6-404a-aecc-4d1d4d438a7b,absolute.life,resell,,,medium,low,8,Xin Net Technology Corporation,02/03/2019 13:58,02/03/2027 13:58,21/09/2026 14:42
+9c905be2-76dd-4b17-a724-e498e4afb6fc,best.life,resell,,,medium,low,4,"GoDaddy.com, LLC",28/06/2015 16:08,28/06/2027 16:08,22/09/2026 19:49
 b07b3400-2f55-4ee4-a598-51d9fd167328,board.life,resell,,,medium,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",16/12/2025 15:15,16/12/2026 15:15,
 4d6585b4-1231-46ba-84a1-c34918edcadf,worried.life,resell,,,high,low,7,Dynadot Inc,08/12/2025 06:51,08/12/2026 06:51,
 e04fbd16-791a-4d49-a573-f80365d22662,whitemeat.life,available,2.99,,low,low,10,name.com,,,
-f5a88d15-5cb8-4642-8aa5-4f8c3d3e2f3a,scripted.life,resell,,,medium,low,8,"Sav.com, LLC - 14",13/08/2025 15:15,13/08/2026 15:15,
+f5a88d15-5cb8-4642-8aa5-4f8c3d3e2f3a,scripted.life,resell,,,medium,low,8,"Sav.com, LLC - 14",13/08/2025 15:15,13/08/2027 15:15,20/09/2026 20:18
+badd9c36-c30a-418d-b7c7-6caf66b01708,hotshot.life,resell,,,medium,low,7,"Sav.com, LLC - 44",22/08/2026 15:15,22/08/2027 15:15,21/09/2026 17:48
 ab2945a5-4a60-468d-be5c-10473c38fd41,fallunder.life,available,2.99,35.99,medium,low,10,namesilo,,,
 80880b83-d770-4c86-9029-ac1358a7a623,technically.life,available,3.49,35.99,low,low,11,namesilo,,,19/09/2026 04:54
 c0035c05-d7c2-4055-91b8-c66f25cb830b,pushabout.life,available,2.99,,low,low,10,name.com,,,
@@ -248,7 +249,7 @@ d68e355e-7b3c-4118-a1b1-cea8f10c713f,disregarded.life,available,2.99,35.99,mediu
 ca11f27c-b357-4644-a688-d1ee2f9e627f,ashgrey.life,available,2.98,46.48,low,low,8,namecheap,,,07/08/2026 01:54
 a48d8ee9-e2e3-4b55-af64-92ca037ba9d3,anorthitic.life,available,2.98,46.48,low,low,10,namecheap,,,
 fcffdef9-5845-4999-9ddd-e242cd72dcd5,wiring.life,available,2.99,,high,low,6,name.com,,,
-b44a3883-0804-496c-b976-0b94d1c3316a,yard.life,resell,,,high,low,4,"DNSPod, Inc.",09/12/2016 07:21,09/12/2026 07:21,
+b44a3883-0804-496c-b976-0b94d1c3316a,yard.life,resell,,,medium,low,4,Xin Net Technology Corporation,09/12/2016 07:21,09/12/2027 07:21,21/09/2026 11:13
 89014cb4-0f96-4b69-a997-13034924dbc7,yearround.life,available,2.99,,high,low,10,name.com,,,
 8e11599f-fad3-4423-9285-0f12f72c1222,aborticide.life,available,2.98,46.48,low,low,10,namecheap,,,
 f1486d31-4451-43fc-b092-d20c9a83737f,evaluative.life,available,2.98,46.48,low,low,10,namecheap,,,06/08/2026 08:13
@@ -268,7 +269,7 @@ fe16ab35-2fea-4c9e-95a6-fdea2fa7a1fb,albinotic.life,available,2.98,46.48,low,low
 2793bb60-7b7f-48c6-b3cd-4f244654e242,pressure.life,resell,,,high,low,8,"DNSPod, Inc.",08/12/2021 13:15,08/12/2026 13:15,
 e58d664a-65d4-4169-9f96-c11a1be1dd3f,inthegreen.life,available,2.99,,medium,low,12,name.com,,,
 70b16cf4-f1c5-404f-bf07-d8cd712c0866,roller.life,resell,,,high,low,6,Xin Net Technology Corporation,09/02/2023 17:01,09/02/2027 17:01,
-94f896d9-33d1-498b-9c4c-8e26e2d8ba04,sweat.life,resell,,,medium,low,5,"DNSPod, Inc.",30/08/2018 23:24,30/08/2026 23:24,
+94f896d9-33d1-498b-9c4c-8e26e2d8ba04,sweat.life,resell,,,medium,low,5,Xin Net Technology Corporation,30/08/2018 23:24,30/08/2027 23:24,22/09/2026 23:07
 72fcf8f7-670c-4601-b321-338cee47f5d1,dramatic.life,premium,123.75,123.75,medium,low,8,name.com,,,
 18316c1b-a773-472d-9c9c-bb707f47bd6e,chew.life,resell,,,medium,low,4,"Sav.com, LLC - 34",13/04/2026 15:16,13/04/2027 15:16,
 c3688e6b-49f0-400f-8333-30ec346ec5ce,discomfort.life,available,2.99,35.99,high,low,10,namesilo,,,
@@ -298,10 +299,9 @@ a1ad9788-b6f5-42ad-9e79-d439b58a6794,lookout.life,resell,,,high,low,7,"Sav.com, 
 c9e09613-497c-4792-bd69-1aed35033ae5,bahamas.life,available,,,high,low,7,,,,
 e9b661e7-6b50-46e3-aa27-f43cb9bc2989,smoking.life,resell,,,high,low,7,"Sav.com, LLC - 9",10/10/2025 15:15,10/10/2026 15:15,
 92615e65-7e24-4181-acaa-a007a15cef54,circinate.life,available,2.98,46.48,low,low,9,namecheap,,,
-025a4980-3db0-478b-a858-2ec0b493a818,unfearing.life,available,2.99,,medium,low,9,name.com,,,
+025a4980-3db0-478b-a858-2ec0b493a818,unfearing.life,available,3.49,35.99,low,low,9,namesilo,,,22/09/2026 12:32
 bb0fe1e5-9b83-47b4-b606-70d4cd7d12e2,recordcompany.life,available,2.99,,high,low,14,name.com,,,
 0e75ce6b-5d6b-4fe9-a20d-211d8c7a6f74,closeorder.life,available,2.99,35.99,medium,low,11,namesilo,,,
-a68c2927-0f35-41d8-a65a-ca7a21d6857c,observed.life,available,2.99,,medium,low,8,name.com,,,
 d2de6fde-c901-437b-b568-c317583f0eac,hitup.life,available,2.99,,high,low,6,name.com,,,
 4b1dbd63-6e01-4479-b8d0-4d1970d7ecec,healthy.life,resell,,,high,low,7,"Sav.com, LLC",27/06/2015 16:18,27/06/2027 16:18,18/09/2026 05:27
 2868f0cf-6567-4f6e-886b-1561a5e4dd9e,guys.life,resell,,,medium,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",16/10/2025 15:15,16/10/2026 15:15,
@@ -312,7 +312,7 @@ b60ae056-05b2-423d-b29a-28a94cb32929,afghani.life,available,2.98,46.48,low,low,7
 31f61891-bf2b-466d-b3ed-f6ca79758f7c,abactinal.life,available,2.98,46.48,low,low,9,namecheap,,,
 4f2cdb47-0862-42c6-a0ec-89d7bfa0e528,gaydog.life,available,2.99,35.99,medium,low,7,namesilo,,,
 04ac84c1-3f8f-4dc1-aa9c-89d66af842dd,thirtyone.life,available,2.98,46.48,low,low,10,namecheap,,,
-58362e1b-3017-4e6c-85bb-eb545b2b2906,selfless.life,resell,,,high,low,8,"Sav.com, LLC - 9",27/12/2025 15:15,27/12/2026 15:15,
+58362e1b-3017-4e6c-85bb-eb545b2b2906,selfless.life,resell,,,medium,low,8,"Sav.com, LLC - 9",27/12/2025 15:15,27/12/2026 15:15,22/09/2026 02:51
 3a7a61ef-ea34-49de-bd41-81441cdd8258,recent.life,resell,,,high,low,6,Squarespace Domains II LLC,07/01/2021 02:35,07/01/2027 02:35,
 d00f3ff0-3311-4c75-ac3a-57b753ad5090,basined.life,available,2.98,46.48,low,low,7,namecheap,,,08/08/2026 22:37
 4a5eda93-637b-4a2f-b350-861d6f7699ef,getoutofhere.life,available,2.99,,high,low,15,name.com,,,
@@ -322,22 +322,21 @@ eac595a5-0053-4863-b9fd-5eb4f275472b,givesomeoneabreak.life,available,2.99,35.99
 f49711ea-ab31-4c92-98e6-1baeaa87bd7e,wipeup.life,available,2.99,,high,low,7,name.com,,,
 78f30f4d-af49-4696-b52a-928e0c3b4e1d,achromous.life,available,2.98,46.48,low,low,9,namecheap,,,
 ca673154-0554-4863-953a-2d0431ee9307,soundthealarm.life,available,2.99,,high,low,15,name.com,,,
-f8c82824-e0fd-4bb0-af52-5b868bb7fe37,austere.life,available,2.99,35.99,medium,low,7,namesilo,,,
 1df302d2-3454-4cf2-972f-9e295dc4d392,ellen.life,resell,,,high,low,5,"DNSPod, Inc.",07/04/2025 15:15,07/04/2027 15:15,
 c74adc31-60f2-4fc5-9ab4-3d593da385e4,apposable.life,available,2.98,46.48,low,low,9,namecheap,,,06/08/2026 07:48
 0b820fa0-d7ad-4f36-8d84-c1637d32cc24,allocable.life,available,2.98,46.48,low,low,9,namecheap,,,
 ec36ec45-5864-4c26-aa36-948bf1756a8d,axile.life,available,2.98,46.48,low,low,5,namecheap,,,08/08/2026 01:56
 e82bf9ed-074b-40ac-93f3-68801069d8cb,aboulic.life,available,2.98,46.48,low,low,7,namecheap,,,
 57513ca3-c302-48a6-93b5-154b6aee63da,france.life,available,,,high,low,6,,,,
-9c4f8850-2f12-4f64-8f38-6e3b75e7687d,genius.life,resell,,,high,medium,6,"Chengdu West Dimension Digital Technology Co., Ltd.",27/11/2016 02:23,27/11/2026 02:23,
+9c4f8850-2f12-4f64-8f38-6e3b75e7687d,genius.life,resell,,,medium,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",27/11/2016 02:23,27/11/2026 02:23,21/09/2026 17:41
 842cb61a-25e1-4555-9fb7-858bb86710bf,construction.life,resell,,,medium,low,12,"Spaceship, Inc.",23/09/2018 23:19,23/09/2026 23:19,
 cf1fe0bf-dc90-44d2-9211-1ac3e0c9b0d4,anopheline.life,available,2.98,46.48,low,low,10,namecheap,,,
 83a7410b-eb8c-45c1-a855-cb7f0395fd41,whiten.life,available,2.99,,high,low,6,name.com,,,
 18256ae9-537f-4b7e-aea0-97fa8f147c35,riskcapital.life,available,2.99,,low,low,12,name.com,,,
 51b8afd3-7c86-472b-974e-2d2f4280fa0a,corona.life,available,,,high,low,6,,,,
 471297a4-1a32-483c-a275-c2fcac048167,callcentre.life,available,2.99,35.99,medium,low,11,namesilo,,,
-79249c52-84ca-4ef2-95d0-90e17082e333,tender.life,resell,,,high,low,6,Dynadot Inc,04/12/2017 10:24,04/12/2026 10:24,
-09cbc6e8-04be-400f-9865-2d1b7cc472ee,garden.life,resell,,,medium,low,6,"Spaceship, Inc.",16/09/2024 15:15,16/09/2027 15:15,19/09/2026 06:17
+79249c52-84ca-4ef2-95d0-90e17082e333,tender.life,resell,,,medium,low,6,Dynadot Inc,04/12/2017 10:24,04/12/2026 10:24,21/09/2026 21:47
+09cbc6e8-04be-400f-9865-2d1b7cc472ee,garden.life,resell,,,medium,low,6,"Spaceship, Inc.",16/09/2024 15:15,16/09/2027 15:15,23/09/2026 03:04
 7c6df789-cb24-4b0e-9e43-f6580ff1c8fc,finalize.life,available,2.99,,high,low,8,name.com,,,
 04422de2-7931-4ac3-9021-e639564aa9d4,trite.life,available,2.98,46.48,low,low,5,namecheap,,,08/08/2026 11:19
 0e8f22e1-2f15-482c-8a0e-8b2497aecf00,talkingpoint.life,available,2.99,,medium,low,13,name.com,,,
@@ -355,7 +354,6 @@ e440dc55-cfad-4b1d-8f63-a8c293df0423,ally.life,available,,,medium,low,4,,,,
 06c843e6-a0e5-4ffa-b709-0ee324fd3d54,plastic.life,resell,,,high,low,7,"DNSPod, Inc.",12/01/2017 14:35,12/01/2027 14:35,
 4e2efbd2-7107-4b66-aef9-b3d3c3c7e6eb,phonecall.life,available,2.99,,high,low,10,name.com,,,
 3e2a041b-b707-44a3-ba31-b09ccbe7edd4,anguished.life,available,2.98,46.48,low,low,9,namecheap,,,
-3f468097-b94d-4479-a4e2-6c726a2ab349,alkaline.life,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",30/05/2020 16:51,30/05/2026 16:51,
 c55fb858-d1c2-4020-a9fb-80839d4ba76e,anamnestic.life,available,2.98,46.48,low,low,10,namecheap,,,
 c096ead6-f107-441b-908f-9d2d82f4606f,motherfugga.life,available,2.99,,medium,low,11,name.com,,,
 56915022-3ac5-40a9-9bca-87c84bcc622e,jewelry.life,resell,,,high,low,7,Xin Net Technology Corporation,03/03/2019 23:16,03/03/2027 23:16,
@@ -364,7 +362,7 @@ bbb4fd7f-bcab-4de5-b1b3-e8d7769893b2,searchengine.life,available,2.99,,high,low,
 14c4cbf6-4f4c-4f8f-ad93-c052105ed21e,tonguesushi.life,available,2.99,,low,low,12,name.com,,,
 ee14e6ca-c6ed-405d-89d8-65081ecf342e,lapse.life,resell,,,high,low,5,"Sav.com, LLC - 4",01/06/2025 15:15,01/06/2026 15:15,
 29769b94-5bfa-41c8-af67-903b777da64e,delivery.life,resell,,,high,low,8,"Spaceship, Inc.",10/11/2021 13:15,10/11/2026 13:15,
-17859851-299f-4c33-9ab2-a9ddbe0f302e,abovementioned.life,available,2.99,35.99,medium,low,15,namesilo,,,
+17859851-299f-4c33-9ab2-a9ddbe0f302e,abovementioned.life,available,2.99,35.99,low,low,15,namesilo,,,
 85db0a09-b10f-41f1-b6c4-ec72ce6ea4c7,obscene.life,available,2.98,46.48,low,low,7,namecheap,,,
 b8c27b7b-aa27-4d2d-a424-aa061f92ebd6,bags.life,resell,,,medium,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",14/02/2022 13:15,14/02/2027 13:15,
 427053c4-43a9-46d7-a7c3-8e64e6f76cb4,applaud.life,available,2.99,35.99,high,low,7,namesilo,,,
@@ -372,7 +370,7 @@ fb23eee8-b3e0-4b97-aa1a-40254bc2887a,antipodal.life,available,2.98,46.48,low,low
 debbbc37-6fde-4af9-9fd5-8f90597891ce,baptised.life,available,2.98,46.48,low,low,8,namecheap,,,08/08/2026 15:00
 4262964e-11e6-4453-b843-1f414995d493,apomictic.life,available,2.98,46.48,low,low,9,namecheap,,,
 05f65bb0-6f02-4a44-8bfa-cfecaf543cb1,inthedistance.life,available,2.99,,medium,low,15,name.com,,,
-da62ea7b-232a-424f-8ce6-db722ee20a4d,keen.life,resell,,,medium,low,4,Dynadot Inc,01/12/2017 11:25,01/12/2027 11:25,
+da62ea7b-232a-424f-8ce6-db722ee20a4d,keen.life,resell,,,low,low,4,Dynadot Inc,01/12/2017 11:25,01/12/2027 11:25,22/09/2026 16:55
 21936612-9f66-453c-9adc-8bdcebdbd0cb,thisevening.life,available,2.99,,low,low,12,name.com,,,
 9664b533-36db-4f31-84e9-c6324131279f,bedded.life,available,2.98,46.48,low,low,6,namecheap,,,09/08/2026 06:41
 6836f06c-22e5-4a51-bc76-bb744de6269d,icu.life,resell,,,high,low,3,Squarespace Domains II LLC,29/11/2023 15:15,29/11/2026 15:15,
@@ -398,7 +396,6 @@ e94c851b-c9b8-4fd9-95ff-ae7f4dc3b14a,punk.life,resell,,,high,low,4,"Chengdu West
 3c69e59f-be2a-4e24-9e64-463dbbf54ce1,lick.life,available,2.99,,medium,low,4,name.com,,,
 0148539a-4247-4a6a-8d3b-a4339644115b,advised.life,available,3.49,35.99,low,low,7,namesilo,,,19/09/2026 08:43
 4afc54fc-619d-454e-8ba1-38c343810695,cutprice.life,available,2.98,46.48,low,low,9,namecheap,,,08/08/2026 19:26
-4ade67fb-dc11-4875-b882-32fec5a133e6,tired.life,resell,,,medium,low,5,"Sav.com, LLC - 19",28/03/2025 15:15,28/03/2027 15:15,
 33035e23-ee86-4c86-86fc-04476624e106,valueable.life,available,2.99,,high,low,9,name.com,,,
 eb3da7db-5afd-45a8-829c-1605375d34c3,oxfam.life,available,2.99,,high,low,5,name.com,,,
 3eddd707-273a-4acd-aa9d-28e9434c7f11,undirected.life,available,2.98,46.48,low,low,10,namecheap,,,
@@ -422,7 +419,6 @@ c843527f-07bd-489b-a505-decefe6af92f,daniel.life,resell,,,high,medium,6,"Sav.com
 5a42d876-0b92-4a62-a6ec-bdaff44ed894,todowith.life,available,2.99,,medium,low,10,name.com,,,
 7f22128a-d9d0-4e43-aeed-670c9e70aaf7,deserter.life,available,2.98,46.48,low,low,8,namecheap,,,06/08/2026 03:40
 81ef604f-979d-4b72-afa6-3be3e40e9cb9,ice.life,resell,,,low,low,3,Dynadot Inc,02/10/2023 15:15,02/10/2027 15:15,19/09/2026 17:13
-9664ff33-68df-4b0b-9795-15963905cb12,black.life,resell,,,high,medium,5,"Spaceship, Inc.",11/09/2024 15:15,11/09/2026 15:15,
 cf091224-0be6-40d9-8128-e654a631ae18,walkingstick.life,available,2.99,,high,low,13,name.com,,,
 fab2ab81-f5b4-4966-b774-85001b01fde6,nineteenth.life,available,2.98,46.48,low,low,10,namecheap,,,
 67f96ad0-eb26-4bf3-ae1a-3181e63d87fa,heartburn.life,available,,,medium,low,9,,,,
@@ -435,12 +431,12 @@ b5a43aa9-c458-4fb8-bf9a-105bde69e700,compensate.life,available,2.99,,high,low,10
 a0cd3f7c-4c6b-4527-94e4-9faad057e96b,knotty.life,resell,,,low,low,6,Squarespace Domains II LLC,25/09/2024 17:00,25/09/2026 17:00,08/08/2026 08:12
 2ff64f09-d35d-41ee-955a-f7b3174d80fb,inundated.life,available,2.98,46.48,low,low,9,namecheap,,,08/08/2026 00:29
 c6091d01-2389-41de-ba59-162ae9ba92e4,equally.life,available,2.99,35.99,high,low,7,namesilo,,,
-7c208e22-1752-4695-af71-6a64b047cdbf,leading.life,resell,,,high,low,7,Xin Net Technology Corporation,04/04/2024 15:15,04/04/2027 15:15,
+7c208e22-1752-4695-af71-6a64b047cdbf,leading.life,resell,,,medium,low,7,Xin Net Technology Corporation,04/04/2024 15:15,04/04/2027 15:15,21/09/2026 23:23
 2008daed-ffe6-4202-b5b6-48da77808d6e,screwloose.life,available,2.99,,low,low,11,name.com,,,
 91270796-e00d-4fdf-b58e-3421a883b642,sauna.life,resell,,,high,low,5,Dynadot Inc,24/11/2017 08:20,24/11/2026 08:20,
 26c46e55-2f51-4fc6-a482-bf47c720a286,reassuringly.life,available,2.99,,medium,low,12,name.com,,,
 e5d98ac6-d77e-4dd2-8bb3-5e2b5db32342,saucer.life,available,2.99,,high,low,6,name.com,,,
-5d163000-1029-435e-a8b7-96987dc6468a,bad.life,resell,,,high,medium,3,"Spaceship, Inc.",23/08/2024 15:15,23/08/2027 15:15,18/09/2026 05:24
+5d163000-1029-435e-a8b7-96987dc6468a,bad.life,resell,,,medium,low,3,"Spaceship, Inc.",23/08/2024 15:15,23/08/2027 15:15,22/09/2026 16:05
 f46db038-41bc-47fc-a47a-dc942e59860f,mexicocity.life,premium,46.2,92.4,medium,low,11,namecheap,,,
 a349f18a-ffab-46e3-8b34-23403140d1eb,discdrive.life,available,2.99,35.99,high,low,10,namesilo,,,
 9f533ab1-bc18-4854-856a-b95f91493def,year.life,resell,,,high,low,4,"DNSPod, Inc.",23/09/2016 10:45,23/09/2026 10:45,
@@ -457,7 +453,7 @@ b0eababe-69fc-4256-b148-0200f97b2cdf,makegoodtime.life,available,2.99,,high,low,
 bbdcc17a-f114-4115-881a-b08ab39cb6c0,admissible.life,available,2.98,46.48,low,low,10,namecheap,,,
 0f18f579-4f9b-4978-b8b4-1c80b55b1548,fuckstruck.life,available,2.99,35.99,medium,low,10,namesilo,,,
 f0985e7b-f5d6-41c7-a7ed-1b4dd4527132,drseuss.life,available,2.99,35.99,high,low,9,namesilo,,,
-d11a8a29-858f-4047-a80e-da1f90c133b4,amenable.life,available,2.99,35.99,medium,low,8,namesilo,,,
+d11a8a29-858f-4047-a80e-da1f90c133b4,amenable.life,available,3.49,35.99,low,low,8,namesilo,,,22/09/2026 04:02
 6ca6cec9-164d-45ba-a2b4-d36396846f7e,littleblackdress.life,available,2.99,,high,low,18,name.com,,,
 7bd30731-e747-40ee-9410-4414343f280a,oddsandends.life,available,2.99,,low,low,13,name.com,,,
 5c98c19e-79b5-4025-ae92-cb8fff95c2f6,inthethickof.life,available,2.99,,medium,low,15,name.com,,,
@@ -465,15 +461,15 @@ d11a8a29-858f-4047-a80e-da1f90c133b4,amenable.life,available,2.99,35.99,medium,l
 6e2c57e3-478d-4e8c-974b-430532b2f368,techno.life,resell,,,high,low,6,Dynadot Inc,08/12/2017 17:16,08/12/2027 17:16,
 a93886ff-38b9-446d-9294-b0563ea99a6d,corrected.life,available,2.99,48.99,high,low,9,name.com,,,
 e3a3af12-febe-48d9-a6da-a2c2a39ca810,greenpepper.life,available,2.99,35.99,high,low,12,namesilo,,,
-3bcb195a-6ffe-41ee-96e7-e78d3e19c9cf,supplier.life,resell,,,high,low,8,"DNSPod, Inc.",29/08/2018 08:24,29/08/2026 08:24,
+3bcb195a-6ffe-41ee-96e7-e78d3e19c9cf,supplier.life,resell,,,high,low,8,Xin Net Technology Corporation,29/08/2018 08:24,29/08/2027 08:24,22/09/2026 20:44
 dc14c0b9-360d-4035-830a-edca17d1da2e,bringin.life,available,2.99,35.99,high,low,8,namesilo,,,
 454f919a-d497-4a42-8f3b-799589bc152f,cincinnati.life,resell,,,high,low,10,"Global Domains International, Inc. DBA DomainCostClub.com",13/11/2024 02:04,13/11/2026 02:04,
-2c2c4c51-6ffa-4367-b1ad-cb5647fb4863,border.life,resell,,,medium,low,6,"DNSPod, Inc.",01/12/2023 15:15,01/12/2026 15:15,
+2c2c4c51-6ffa-4367-b1ad-cb5647fb4863,border.life,resell,,,low,low,6,Xin Net Technology Corporation,01/12/2023 15:15,01/12/2027 15:15,23/09/2026 00:10
 57a2b4b8-be9d-4937-a2f2-62371fc717df,idle.life,resell,,,low,low,4,Dynadot Inc,13/11/2017 11:54,13/11/2026 11:54,08/08/2026 21:52
 7092ea5f-ac20-4afc-ae6f-be8ec258cf79,childlabor.life,available,2.99,35.99,medium,low,11,namesilo,,,
 4fa7e59a-2d43-4d9d-8366-888fcb728af3,aliform.life,available,2.98,46.48,low,low,7,namecheap,,,
 2865b4dc-3d14-4194-b602-081e1f5abdb0,frenchroast.life,available,2.99,,medium,low,12,name.com,,,
-46f23ea3-e318-4941-87f5-3088d89a3522,awkward.life,resell,,,high,low,7,"Sav.com, LLC - 38",27/11/2025 15:15,27/11/2026 15:15,
+46f23ea3-e318-4941-87f5-3088d89a3522,awkward.life,resell,,,low,low,7,"Sav.com, LLC - 38",27/11/2025 15:15,27/11/2026 15:15,22/09/2026 15:31
 4565ed2b-54de-4907-a958-becbeefbfc38,goodasnew.life,available,2.99,,high,low,11,name.com,,,
 7d628bd4-03e8-4eb6-8957-047d1657ce0b,favourable.life,available,2.99,35.99,high,low,10,namesilo,,,
 bcdfcb02-e3aa-4742-9fa8-ab768bb81813,frenchmustard.life,available,2.99,,high,low,14,name.com,,,
@@ -489,10 +485,9 @@ fbb7f73d-76f7-45c0-859b-f20de2a98354,revolution.life,resell,,,medium,low,10,"Che
 6db0ecb3-d7e4-441a-bf73-741f64663489,either.life,available,2.99,,high,low,6,name.com,,,
 861e7fa8-a94a-4a63-88a9-5da35998a6c4,kindof.life,available,2.99,,medium,low,7,name.com,,,
 cbaf6df6-dae6-4ac7-8251-fdd23d39e26f,policy.life,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",09/06/2018 12:07,09/06/2026 12:07,
-c8752c9d-75e1-4d7d-b43c-bcb1f6f2bb12,zest.life,resell,,,high,low,4,"DNSPod, Inc.",14/08/2019 09:28,14/08/2026 09:28,
 3cf391f7-e631-4e83-b6e6-2dcd387ce0a5,grandma.life,resell,,,high,low,7,Xin Net Technology Corporation,07/07/2020 08:11,07/07/2027 08:11,17/09/2026 20:21
 a958f194-1ba5-4c9e-8517-75ce3a05e832,askew.life,available,2.98,46.48,low,low,5,namecheap,,,07/08/2026 03:31
-e53628e1-a60c-4952-b4fd-37b0f096aa2b,engrossed.life,available,2.99,48.99,high,low,9,name.com,,,
+e53628e1-a60c-4952-b4fd-37b0f096aa2b,engrossed.life,available,3.49,35.99,medium,low,9,namesilo,,,21/09/2026 15:00
 3343ed7a-4fd3-4b9f-8d43-d355b99f7063,vexatious.life,available,,,low,low,9,,,,
 e59c1509-e76e-4d5c-8b80-3435b8350f73,giveofoneself.life,available,2.99,35.99,high,low,15,namesilo,,,
 fa3e55b1-585f-4961-90fa-6b2fb16553ad,killedinaction.life,available,2.99,,low,low,16,name.com,,,
@@ -502,20 +497,19 @@ aca9ed6c-8457-43a4-b08a-6778696124ae,divert.life,available,2.99,48.99,high,low,6
 3da515fb-9762-4d8f-a456-704b7d58eb26,mentioned.life,available,2.99,,medium,low,9,name.com,,,
 3f8862b1-86d8-46ba-87fd-f8f32b11d8df,acneiform.life,available,2.98,46.48,low,low,9,namecheap,,,
 d085d1df-2eea-4d4a-bf7b-fa8eea2f0c98,primitive.life,resell,,,high,low,9,Squarespace Domains II LLC,26/12/2018 11:57,26/12/2026 11:57,
-0f62b5ed-187f-40f9-9dd7-278c3d7a351f,champion.life,resell,,,high,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",12/12/2020 08:14,12/12/2026 08:14,
+0f62b5ed-187f-40f9-9dd7-278c3d7a351f,champion.life,resell,,,medium,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",12/12/2020 08:14,12/12/2026 08:14,21/09/2026 17:32
 dafad03b-1181-4907-a18c-642ae2e1af6f,motor.life,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",02/12/2022 15:15,02/12/2026 15:15,
-4aa3b4ae-c554-4c50-a7f8-e770a4efaefb,valued.life,resell,,,high,low,6,"DNSPod, Inc.",29/08/2024 17:00,29/08/2026 17:00,
+4aa3b4ae-c554-4c50-a7f8-e770a4efaefb,valued.life,resell,,,high,low,6,"DNSPod, Inc.",29/08/2024 17:00,29/08/2027 17:00,22/09/2026 21:16
 01098ec5-e8a5-40a0-a88c-e33b3901ac99,hover.life,resell,2.99,,medium,low,5,"Sav.com, LLC",17/03/2026 10:21,17/03/2027 10:21,
-b0fb9ea9-6c8f-4756-b4f9-0e492fcf36dd,blacktie.life,available,2.99,,medium,low,9,name.com,,,
 73bb3a0e-96bb-4973-b502-4cd50a2bb23e,debase.life,available,2.98,46.48,low,low,6,namecheap,,,
 17533285-4dd1-4263-9e95-920b3b538782,supposed.life,available,2.99,48.99,high,low,8,name.com,,,
 024966ac-c3b3-407c-b94a-55636e7ad55a,aufait.life,available,2.98,46.48,low,low,7,namecheap,,,
 152c7e31-0dd9-4079-a080-4e704cc2a709,trader.life,resell,,,high,low,6,"DNSPod, Inc.",31/12/2024 15:15,31/12/2026 15:15,
-c931b1ce-045c-447c-a3ac-2a7e9e6ed123,tea.life,resell,,,medium,low,3,"NameSilo, LLC",02/12/2015 03:08,02/12/2026 03:08,19/09/2026 04:49
+c931b1ce-045c-447c-a3ac-2a7e9e6ed123,tea.life,resell,,,medium,low,3,"NameSilo, LLC",02/12/2015 03:08,02/12/2026 03:08,23/09/2026 02:52
 bd9b5542-61d5-44a2-904e-5a72831d6e00,burning.life,resell,,,high,low,7,"DNSPod, Inc.",27/09/2023 15:15,27/09/2026 15:15,
 d0d19d60-0723-40a3-bbc2-52d80085c95a,closer.life,resell,,,high,low,6,Dynadot Inc,04/02/2026 17:00,04/02/2027 17:00,
 22a0e481-760b-43c4-b80f-a026fb7840b7,timeabout.life,available,2.99,,low,low,10,name.com,,,
-67cabe0f-0a2a-4ea4-9982-ea856dca3fc9,quick.life,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",03/12/2017 08:04,03/12/2026 08:04,
+67cabe0f-0a2a-4ea4-9982-ea856dca3fc9,quick.life,resell,,,low,low,5,"DNSPod, Inc.",03/12/2017 08:04,03/12/2030 08:04,21/09/2026 23:09
 f6560f2f-a3ae-4699-bd39-072e4879d794,achenial.life,available,2.98,46.48,low,low,8,namecheap,,,
 11b3b4b5-0a0b-403a-91fb-4314c608b6e7,standout.life,resell,,,medium,low,9,"Sav.com, LLC - 11",08/05/2025 15:15,08/05/2027 15:15,
 4fabca03-0b99-4d26-979d-215ebf8a9040,approved.life,resell,,,low,low,8,Xin Net Technology Corporation,04/02/2020 20:34,04/02/2027 20:34,06/08/2026 09:20
@@ -525,21 +519,20 @@ c7227da6-b807-4477-a046-8e0175068204,childsexabuse.life,available,2.99,35.99,med
 3c8af82f-beac-4026-82e5-02722d3fe2ea,bald.life,resell,,,low,low,4,"Sav.com, LLC - 41",16/12/2025 15:15,16/12/2026 15:15,08/08/2026 09:16
 121b78e0-9ede-4b6d-87bb-f23155f0d0fe,fallinto.life,available,2.99,35.99,medium,low,9,namesilo,,,
 0a97830e-e879-427d-9c0c-827346dc0eb5,fretful.life,available,2.98,46.48,low,low,7,namecheap,,,05/08/2026 20:37
-8b2a3818-0033-4322-bab6-1013fa73c059,flamboyant.life,resell,,,medium,low,10,Dynadot Inc,08/12/2025 06:51,08/12/2026 06:51,
-273a087a-89f3-456c-afa0-4229b567b181,gone.life,resell,,,high,low,4,Dynadot Inc,08/03/2018 22:13,08/03/2027 22:13,
-ef3bd930-1e35-4890-8a55-913f3a066088,abject.life,available,2.99,43.99,high,low,6,name.com,,,
+8b2a3818-0033-4322-bab6-1013fa73c059,flamboyant.life,resell,,,low,low,10,Dynadot Inc,08/12/2025 06:51,08/12/2026 06:51,22/09/2026 12:57
+ef3bd930-1e35-4890-8a55-913f3a066088,abject.life,available,2.99,43.99,low,low,6,name.com,,,
 c7b830a4-ff63-460a-bc4d-e9117c58c2a0,briefly.life,available,,,medium,low,7,,,,
 e001208f-7572-4934-aa77-be6979892cb3,inthethickofit.life,available,2.99,,medium,low,18,name.com,,,
 1b976537-744d-4c4a-996a-793eeb47da05,respected.life,available,2.99,,high,low,9,name.com,,,
 d7fe727e-1292-46e0-8a20-c1bd0ff02ec3,scurrilous.life,available,2.98,46.48,low,low,10,namecheap,,,
 d6fd1a53-586e-41bd-bc5e-de1152ffaa00,maddened.life,available,2.98,46.48,low,low,8,namecheap,,,
 f41e5ef0-e825-4a9b-8429-a91bdf06471e,elaborate.life,resell,,,high,low,9,Dynadot Inc,08/12/2025 12:11,08/12/2026 12:11,
-b817558e-8506-4f9e-9b6d-56843070dc75,converted.life,available,2.99,35.99,medium,low,9,namesilo,,,
+b817558e-8506-4f9e-9b6d-56843070dc75,converted.life,available,2.98,46.48,low,low,9,namecheap,,,23/09/2026 00:43
 93b228ae-f1fc-40bd-b1e7-6da8c1b5de85,hightechnology.life,available,2.99,,high,low,15,name.com,,,
 f772a0a4-43f6-486e-a9c6-739d305f1c72,fleet.life,available,,,medium,low,5,,,,
 9af8c27a-1d68-4c3e-8dc0-afa60fc43342,baptized.life,available,,,medium,low,8,,,,
 b9c71dd0-8c42-45da-9225-126994200ae8,indefinite.life,available,2.99,,high,low,10,name.com,,,
-76c4bbd4-3077-45f1-91ce-e1b47b32e62d,sterile.life,available,2.99,,medium,low,7,name.com,,,
+76c4bbd4-3077-45f1-91ce-e1b47b32e62d,sterile.life,available,3.49,35.99,low,low,7,namesilo,,,22/09/2026 09:35
 f6ee49fc-0d66-4deb-8fd1-0b8430c4c1e3,warmblooded.life,available,2.99,,low,low,12,name.com,,,
 87c31a46-36c0-4435-8028-cae67481d4ce,tailless.life,available,2.98,46.48,low,low,8,namecheap,,,05/08/2026 21:33
 a02c26f9-bddf-488b-802d-03454b1e86c0,dismiss.life,available,2.99,35.99,high,low,7,namesilo,,,
@@ -554,8 +547,8 @@ dc88b458-4318-4437-9431-5785b098a13b,verbal.life,available,2.99,,high,low,6,name
 bb6d6a06-a963-4ed7-bbde-2e49b2e1d527,antiknock.life,available,2.98,46.48,low,low,9,namecheap,,,
 faf7ee7e-cbed-4b82-b3a2-f62b106e5205,assuming.life,available,2.98,46.48,low,low,8,namecheap,,,07/08/2026 08:16
 bdc3df01-a479-41cf-a5a9-98b995677f1c,thereis.life,available,2.99,,low,low,8,name.com,,,
-d048e796-e9f5-4990-9277-99644a3df43f,automatic.life,resell,,,high,low,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/12/2019 22:18,14/12/2026 22:18,
-06752ba2-c878-4aac-a992-774ee3395423,tomato.life,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",03/08/2018 23:38,03/08/2026 23:38,
+d048e796-e9f5-4990-9277-99644a3df43f,automatic.life,resell,,,medium,low,9,"Chengdu West Dimension Digital Technology Co., Ltd.",14/12/2019 22:18,14/12/2026 22:18,22/09/2026 14:02
+06752ba2-c878-4aac-a992-774ee3395423,tomato.life,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",03/08/2018 23:38,03/08/2027 23:38,20/09/2026 11:20
 009b9c05-538b-4161-ac4b-6f79262df9df,hardly.life,available,2.99,,high,low,6,name.com,,,
 4e6ffcfc-517d-4b3b-9bdc-1b54177ae351,getthebetterof.life,available,2.99,35.99,high,low,17,namesilo,,,
 13c780f7-9dc9-4f1b-b56e-f0917edf025d,court.life,resell,,,medium,low,5,"DNSPod, Inc.",30/06/2021 08:20,30/06/2027 08:20,17/09/2026 06:33
@@ -568,10 +561,11 @@ eca8bc94-fd19-422e-b9d4-9371aa6cf5cb,cold.life,resell,,,high,low,4,Dynadot Inc,1
 251004e1-1ba8-4693-961e-3b04e83c987e,service.life,resell,,,low,low,7,Xin Net Technology Corporation,17/09/2019 07:55,17/09/2027 07:55,19/09/2026 12:20
 a5297c52-2cbc-4b5d-bf23-e62980448406,constantly.life,available,2.99,35.99,medium,low,10,namesilo,,,
 406a0c54-f743-4000-95f1-63475a236716,temperature.life,resell,,,medium,low,11,"DNSPod, Inc.",09/12/2021 15:38,09/12/2026 15:38,
-a39a8563-a370-43c7-8647-8aa95faa8fd4,vain.life,resell,,,medium,low,4,"Sav.com, LLC - 29",21/08/2025 15:15,21/08/2026 15:15,
+a39a8563-a370-43c7-8647-8aa95faa8fd4,vain.life,resell,,,low,low,4,"Sav.com, LLC - 29",21/08/2025 15:15,21/08/2027 15:15,22/09/2026 23:50
 0bd1ee9a-6877-4b3f-a839-4c2d8c7ca54f,vengeful.life,available,2.99,,medium,low,8,name.com,,,
 3d8b9128-c59f-49a0-9238-98f5c3ebc9ae,hand.life,resell,,,high,low,4,Dynadot Inc,22/05/2018 22:31,22/05/2027 22:31,
 380198b2-a287-44a7-888c-57d5c9949ffb,mike.life,resell,,,high,medium,4,"DNSPod, Inc.",07/05/2023 15:15,07/05/2027 15:15,
+c1202dab-4876-46c7-acda-6ada9f9d2512,important.life,resell,,,medium,low,9,Dynadot Inc,04/05/2019 12:36,04/05/2027 12:36,22/09/2026 13:54
 dd44aa8f-cf07-4142-9027-b6ac2180dd85,serveup.life,available,2.99,,high,low,8,name.com,,,
 6215a4fb-ed25-4627-ad61-dec62b314e9b,dickhead.life,available,2.98,46.48,low,low,8,namecheap,,,08/08/2026 23:34
 8b1efba5-dd05-4876-97a7-804ea8900640,loony.life,available,2.98,46.48,low,low,5,namecheap,,,06/08/2026 21:17
@@ -600,7 +594,7 @@ c3702c9e-bc10-4ebd-9ead-aae588843af8,redsquare.life,available,2.99,,low,low,10,n
 d839e8f1-f572-4b68-bd46-81c7929a1cf9,provoking.life,available,2.98,46.48,low,low,9,namecheap,,,
 2da409de-c198-4601-b6af-f468ce399397,orbicular.life,available,2.98,46.48,low,low,9,namecheap,,,08/08/2026 10:11
 109e539e-41c1-46e7-9bb4-966f53249480,jail.life,resell,,,high,low,4,Xin Net Technology Corporation,07/02/2020 12:06,07/02/2027 12:06,
-7b5bb2a4-52d4-4657-ac24-b558c766b779,dental.life,resell,,,high,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",29/05/2024 15:15,29/05/2027 15:15,
+7b5bb2a4-52d4-4657-ac24-b558c766b779,dental.life,resell,,,medium,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",29/05/2024 15:15,29/05/2027 15:15,22/09/2026 02:57
 c7278851-02ac-48e4-a1ee-77d07b0b8a1b,thickandthin.life,available,2.99,,low,low,14,name.com,,,
 9871e6a2-1a90-493d-968a-bb64ae9c3e98,speculation.life,available,2.99,,low,low,11,name.com,,,
 0ea4fd8c-ef3c-4758-900f-91eb2fa2d89d,justkidding.life,available,2.99,,high,low,12,name.com,,,
@@ -609,7 +603,6 @@ d26d5e42-085a-41d6-9cab-9f33ca82616e,puertorico.life,available,,,low,low,11,,,,
 ae18d99d-1ff6-48e4-8e1e-1b6947e6cd88,ambulatory.life,available,2.98,46.48,low,low,10,namecheap,,,
 c72207e6-aa8e-4c9f-a6b9-8a0f2dd6228d,excursion.life,resell,,,high,low,9,Squarespace Domains II LLC,23/10/2023 15:15,23/10/2026 15:15,
 e2069068-8bc9-4a9e-ad4e-faa4d282858c,drift.life,resell,,,high,low,5,"GoDaddy.com, LLC",10/12/2017 08:11,10/12/2026 08:11,
-ab512b51-6975-4ba2-a818-38a6747b7a79,moonlight.life,resell,,,high,low,9,"Sav.com, LLC - 19",06/08/2023 15:15,06/08/2026 15:15,
 df2f1ed4-4c91-4c39-b9cf-dee3f9abd80f,childabuse.life,available,2.99,35.99,medium,low,11,namesilo,,,
 b83321a6-9dda-4678-8509-2c645889876e,nosehair.life,available,2.99,,low,low,9,name.com,,,
 9b94e8de-3245-41cd-9918-cae0c18ec208,abkhas.life,available,2.98,46.48,low,low,6,namecheap,,,
@@ -643,7 +636,7 @@ d968ce48-0640-425a-bd2c-3685fcafa6b7,someone.life,resell,,,high,low,7,"Sav.com, 
 c76054e5-688c-47f0-99f0-d60ec9ea9314,checkover.life,available,2.99,35.99,high,low,10,namesilo,,,
 001165bf-2870-4b9f-b190-dcce0b901226,corrupt.life,resell,2.99,48.99,high,low,7,"Sav.com, LLC",25/04/2026 16:58,25/04/2027 16:58,
 61ba9847-2840-4091-87ee-00fb3efb6723,course.life,resell,,,medium,low,6,Xin Net Technology Corporation,27/02/2018 23:44,27/02/2027 23:44,20/09/2026 02:53
-d2f6d5ca-bee1-472c-a152-d07ecb40b1d0,essential.life,resell,,,high,low,9,"Sea Wasp, LLC",17/09/2014 16:00,17/09/2026 16:00,
+d2f6d5ca-bee1-472c-a152-d07ecb40b1d0,essential.life,resell,,,medium,low,9,"Sea Wasp, LLC",17/09/2014 16:00,17/09/2027 16:00,22/09/2026 00:42
 d34dab3b-d4c0-4322-a2fc-04b0b83384b5,act.life,resell,,,high,low,3,"Chengdu West Dimension Digital Technology Co., Ltd.",29/12/2020 01:38,29/12/2026 01:38,
 ab4ff626-89d7-47e1-a22d-e258b4e4f63d,rudderless.life,available,2.98,46.48,low,low,10,namecheap,,,
 cfc4f95a-225a-4ba4-9988-15fded1b3e6e,limitation.life,available,2.99,,medium,low,10,name.com,,,
@@ -655,7 +648,7 @@ c73e04e0-c90b-4ce5-8f91-eade41637626,alcoholabuse.life,available,2.99,35.99,medi
 47be92ea-3538-478e-891d-c90860eaa669,touring.life,resell,,,high,low,7,Xin Net Technology Corporation,13/02/2020 09:20,13/02/2027 09:20,
 f4d4963d-c8b5-408d-94e5-3a69f099a9f2,incredible.life,resell,,,high,low,10,"Chengdu West Dimension Digital Technology Co., Ltd.",12/12/2025 15:15,12/12/2026 15:15,
 4652d6af-c037-4a63-b162-be3fd49e35ad,keister.life,available,2.98,46.48,low,low,7,namecheap,,,09/08/2026 11:08
-42a0c64e-4049-4bb9-b82a-bf72e070e868,licenced.life,available,2.99,48.99,medium,low,8,name.com,,,
+42a0c64e-4049-4bb9-b82a-bf72e070e868,licenced.life,available,3.49,35.99,low,low,8,namesilo,,,21/09/2026 15:56
 e87b5e6b-0283-4574-a839-9c2964a2ca8c,stopped.life,available,2.99,,medium,low,7,name.com,,,
 eaab9e6d-7a12-40fa-89d9-64e658cdce7e,asthesayinggoes.life,available,2.99,35.99,medium,low,18,namesilo,,,
 053478d8-7820-4f18-93d1-e13dfc225f84,together.life,resell,,,high,medium,8,Xin Net Technology Corporation,09/04/2019 19:01,09/04/2027 19:01,
@@ -668,14 +661,14 @@ b89744e1-a12e-4be6-aa9a-29e8a403b1b5,supra.life,resell,,,medium,low,5,"DNSPod, I
 8d732c22-ced4-4f35-a52f-d2c6c127a986,altissimo.life,available,2.98,46.48,low,low,9,namecheap,,,
 0505bb36-b3ea-45f8-9955-092acd8122b1,macro.life,resell,,,high,low,5,Xin Net Technology Corporation,03/02/2022 13:15,03/02/2027 13:15,
 92228672-fb5c-41b0-bd81-b0a596b2b612,covetous.life,available,2.98,46.48,low,low,8,namecheap,,,07/08/2026 21:53
-c9fbcce5-b0d1-4253-8083-dbac17e5e76a,back.life,resell,,,high,low,4,"DNSPod, Inc.",03/11/2019 22:27,03/11/2026 22:27,
+c9fbcce5-b0d1-4253-8083-dbac17e5e76a,back.life,resell,,,medium,low,4,Xin Net Technology Corporation,03/11/2019 22:27,03/11/2027 22:27,22/09/2026 15:40
 a6ce372d-444a-426a-9690-1f6a3dd2b014,sitting.life,available,2.99,,high,low,7,name.com,,,
 fca2e8e3-f1de-4140-8e36-285a46d22e8c,marvelous.life,resell,,,high,low,9,"DNSPod, Inc.",25/02/2019 08:45,25/02/2027 08:45,
 db7f843f-03d0-40a4-8247-0b20cdc74282,satisfy.life,resell,,,high,low,7,"Sav.com, LLC - 19",05/04/2025 15:15,05/04/2027 15:15,
 53f43ff0-70ba-447f-83c3-a44ebec0c6ed,ternary.life,available,2.98,46.48,low,low,7,namecheap,,,
 8f0f3ffa-f5b6-481a-85be-04c05e2f30fe,basket.life,resell,,,high,low,6,Dynadot Inc,19/10/2018 08:29,19/10/2026 08:29,
 f22bce72-4972-48c5-9282-49384e574620,jamesdean.life,available,2.99,,high,low,10,name.com,,,
-2cce941d-b2ec-4ef4-a624-bd8ff86175b7,ascent.life,resell,,,high,low,6,Squarespace Domains II LLC,26/12/2018 00:59,26/12/2026 00:59,
+2cce941d-b2ec-4ef4-a624-bd8ff86175b7,ascent.life,resell,,,low,low,6,Squarespace Domains II LLC,26/12/2018 00:59,26/12/2026 00:59,22/09/2026 09:19
 b7b88c27-cf9b-4487-92e0-bd4cb4482337,slacking.life,available,2.99,,medium,low,8,name.com,,,
 9d10717d-a253-468b-95da-0c9bffbd13a8,european.life,resell,,,high,low,8,"Spaceship, Inc.",14/09/2021 17:00,14/09/2026 17:00,
 d7a53ea8-dac8-48a5-b9b8-7b58be229a2c,babyish.life,available,2.98,46.48,low,low,7,namecheap,,,08/08/2026 03:53
@@ -695,6 +688,7 @@ d7c70d04-f9e1-4ba0-924b-653c07ada20c,keeptime.life,available,2.99,,high,low,9,na
 dd498adc-d8f1-4658-9a4f-670294f1d35a,ribald.life,available,2.98,46.48,low,low,6,namecheap,,,09/08/2026 02:15
 3c08dbfc-7d65-45c9-ae9b-cb97ea56eb3e,coverup.life,resell,,,medium,low,8,"Sav.com, LLC",20/12/2025 12:57,20/12/2026 12:57,
 0245d44c-ecd6-4723-a460-7227be7cad5a,sensory.life,resell,,,high,low,7,Xin Net Technology Corporation,15/03/2018 07:57,15/03/2027 07:57,
+8302b988-b9d6-415b-9493-6e079ead9989,before.life,resell,,,medium,low,6,Xin Net Technology Corporation,26/05/2019 23:48,26/05/2027 23:48,21/09/2026 23:34
 9a3ff4c6-29a4-4545-ad23-fe23a94df1b2,uncomfortably.life,available,2.99,,medium,low,13,name.com,,,
 fc90a3ae-02a3-4037-bd5a-cdd408deb002,asaresultof.life,available,2.99,35.99,medium,low,14,namesilo,,,
 eaa4a489-f97e-4118-84d3-84cad4025ab0,modernistcuisine.life,available,2.99,,high,low,17,name.com,,,
@@ -704,24 +698,22 @@ debc15e3-33e2-4ada-ae58-4923c16e24f7,yield.life,resell,,,high,low,5,"Xiamen Chin
 f6bd7b2d-9147-46df-a092-e07f6a28e1ce,noticeable.life,available,2.99,48.99,medium,low,10,name.com,,,
 eb149ee9-4ccd-498f-aab9-595bcc497e13,sunbelt.life,available,2.99,,high,low,7,name.com,,,
 b8e1e053-e22e-4663-9d10-61e33ebd0009,ridden.life,available,2.99,,high,low,6,name.com,,,
-6b0f06fa-016c-41b5-8473-a05f616cbdde,auditory.life,available,2.99,35.99,high,low,8,namesilo,,,
+6b0f06fa-016c-41b5-8473-a05f616cbdde,auditory.life,available,2.98,46.48,medium,low,8,namecheap,,,22/09/2026 12:39
 b3687601-e146-4765-bc30-eec8fa1c70b0,gallon.life,available,2.99,35.99,medium,low,6,namesilo,,,
 cac92c2c-5e14-4ad4-ab0c-0172432d441e,acrobatic.life,available,2.98,46.48,low,low,9,namecheap,,,
-7ca70ada-1661-475d-91de-31b9c1b6b426,ecological.life,resell,,,high,low,10,"Sav.com, LLC - 48",26/09/2025 15:15,26/09/2026 15:15,
 9e349d63-6bca-43b7-a7a6-b9dad382b29f,airnavigation.life,available,2.99,35.99,high,low,14,namesilo,,,
 e694ca47-ac02-4b2c-8954-61e954a8cb21,shineat.life,available,2.99,,high,low,8,name.com,,,
-7f4b8b36-00db-4bb0-8737-faee77b16382,justabout.life,available,2.99,48.99,medium,low,10,name.com,,,
+7f4b8b36-00db-4bb0-8737-faee77b16382,justabout.life,available,3.49,35.99,low,low,10,namesilo,,,21/09/2026 14:09
 20a58982-4a44-490c-a8f1-82344c4c49d1,merrymen.life,available,2.99,,high,low,9,name.com,,,
 4281a211-934b-4198-aa7b-b947bc286aa8,inlightof.life,available,2.99,,medium,low,11,name.com,,,
 37230375-f925-477f-b195-9ec0d5974803,attention.life,resell,,,high,low,9,"DNSPod, Inc.",01/02/2025 15:15,01/02/2027 15:15,
-4812fbcb-3c12-4be3-9694-89abd60a3fb3,indian.life,resell,,,high,high,6,Unstoppable Domains Inc,09/02/2021 03:00,09/02/2026 03:00,
 c1901c33-8c35-41c8-a99b-6fe3889f252a,lifeprotip.life,available,2.99,,high,low,12,name.com,,,
 49847c87-a73c-4b00-bc4c-7a651033dd43,conscious.life,resell,,,high,low,9,"Chengdu West Dimension Digital Technology Co., Ltd.",17/09/2014 16:00,17/09/2026 16:00,
 aca3a64f-a556-4acf-b446-27e1fd1fe144,placative.life,available,2.98,46.48,low,low,9,namecheap,,,06/08/2026 06:07
 e382a374-5003-4586-ae7f-732b4d874c15,bulk.life,resell,,,high,low,4,"Sav.com, LLC - 14",27/12/2025 15:15,27/12/2026 15:15,
 52ad4cf2-0f29-48dd-8248-0d175b0760a2,amygdaline.life,available,2.98,46.48,low,low,10,namecheap,,,
 84044fd8-79fc-4d5e-8b37-ebd7e10f953a,iwanttoknow.life,available,2.99,,medium,low,14,name.com,,,
-5bf73778-2807-439b-849c-b3b43fa41306,cross.life,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",27/09/2018 02:48,27/09/2026 02:48,
+5bf73778-2807-439b-849c-b3b43fa41306,cross.life,resell,,,low,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",27/09/2018 02:48,27/09/2027 02:48,22/09/2026 16:13
 cf6fc5f0-0719-440d-8b20-d9434ccc38b2,onehundred.life,resell,,,low,low,11,"Sav.com, LLC - 35",05/03/2026 15:15,05/03/2027 15:15,
 3f8d6b27-bee9-4cf6-b540-48773a25148e,giveback.life,resell,,,high,low,9,"DNSPod, Inc.",05/05/2025 15:15,05/05/2027 15:15,
 ee2e0892-2d36-416f-8553-2ac71ae2e734,amorphous.life,available,,,medium,low,9,,,,
@@ -736,7 +728,7 @@ b8900996-38bb-4d77-8b00-014d1d2ecb30,sliding.life,available,2.99,,high,low,7,nam
 9abcd47a-a5c6-4cd0-9c0e-6837fc92b644,francisca.life,available,2.99,,high,low,9,name.com,,,
 d3b1a6b6-6f5c-43ed-bd45-aee7aeb51828,mousearound.life,available,2.99,,low,low,12,name.com,,,
 a8e9fd2f-78e8-4827-8ade-d6bd03859225,balky.life,available,2.98,46.48,low,low,5,namecheap,,,08/08/2026 09:55
-1dcf00b5-1891-4dce-b428-a17aab5bea9b,discover.life,resell,,,medium,high,8,"Sav.com, LLC - 30",16/09/2024 15:15,16/09/2026 15:15,
+1dcf00b5-1891-4dce-b428-a17aab5bea9b,discover.life,resell,,,medium,low,8,"Sav.com, LLC - 30",16/09/2024 15:15,16/09/2027 15:15,23/09/2026 04:38
 5a781242-7348-4184-bd74-ff1947881f6b,admissive.life,available,2.98,46.48,low,low,9,namecheap,,,
 977a852e-a214-4a85-b60c-2759bba5077a,acaudate.life,available,2.98,46.48,low,low,8,namecheap,,,
 77dcd931-99bc-414e-8639-ec5d11299612,closequarters.life,available,2.99,35.99,medium,low,14,namesilo,,,
@@ -746,7 +738,7 @@ c670fed2-898d-44a7-b434-15ab7ff9f182,baltic.life,resell,,,low,low,6,"Sav.com, LL
 29ee8091-faa7-46f8-bb0e-68da9d45c6f7,web.life,resell,,,low,low,3,"Sav.com, LLC",01/07/2015 15:38,01/07/2027 15:38,19/09/2026 18:14
 a52f463d-ce9e-49a6-8ce5-5abd30d59161,letsomeoneloose.life,available,2.99,,medium,low,17,name.com,,,
 d1f3e967-5567-4f0e-bbd5-e6b35c00a83c,quiteafew.life,available,2.99,,medium,low,11,name.com,,,
-1c0016a7-3a5a-4d5c-b284-81a5e085e14a,courses.life,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/08/2022 13:15,03/08/2026 13:15,
+1c0016a7-3a5a-4d5c-b284-81a5e085e14a,courses.life,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/08/2022 13:15,03/08/2027 13:15,20/09/2026 11:01
 6a3bfac6-45fe-412f-94ec-f361ee757951,winner.life,resell,,,high,low,6,Unstoppable Domains Inc,27/01/2022 13:15,27/01/2027 13:15,
 6c7e8c0e-a961-498e-9acc-eb019e0194b9,headtotoe.life,available,2.99,,medium,low,11,name.com,,,
 adef5564-4325-4108-909e-eb5d2055c3f8,anti.life,resell,,,medium,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",03/12/2019 08:30,03/12/2026 08:30,
@@ -769,7 +761,7 @@ f33aed52-8378-4b14-bb11-c2b9d8e33532,critical.life,resell,,,high,low,8,"DNSPod, 
 e3e69691-0152-4660-b6c2-85c87a9828aa,flaxseedoil.life,available,2.99,35.99,high,low,12,namesilo,,,
 3312ff4b-6e25-41e4-92fb-5542e198a8f7,takeawife.life,available,2.99,,low,low,11,name.com,,,
 c441c76d-b615-461f-b67e-5aa806d033cc,alkaloidal.life,available,2.98,46.48,low,low,10,namecheap,,,
-3a28cd00-85a4-438a-a86b-88a01939700d,investing.life,resell,,,medium,low,9,Dynadot Inc,08/12/2016 11:27,08/12/2027 11:27,19/09/2026 07:46
+3a28cd00-85a4-438a-a86b-88a01939700d,investing.life,resell,,,medium,low,9,Dynadot Inc,08/12/2016 11:27,08/12/2027 11:27,23/09/2026 03:25
 d0c2f3ea-4bf9-4125-8ce5-a58ef03e7f11,eaten.life,available,2.99,35.99,high,low,5,namesilo,,,
 da0811eb-0d0f-4ee3-9959-b64da8321d5c,customise.life,available,2.99,35.99,high,low,9,namesilo,,,
 14995ea9-f40f-426c-b048-e3fd82fe5891,flickering.life,available,2.98,46.48,low,low,10,namecheap,,,
@@ -795,11 +787,11 @@ ebc1b1ae-6560-4e65-9c8e-88dcc05e978d,took.life,available,2.99,,low,low,4,name.co
 c42579a0-8908-493b-8b58-d4e4bd90cbd4,beingas.life,available,2.99,,medium,low,8,name.com,,,
 fdcb9080-2927-4453-993d-3ead68f763f5,plaguy.life,available,2.98,46.48,low,low,6,namecheap,,,
 b635db8c-5216-45eb-8b75-d340705f0cc3,informing.life,available,2.99,,medium,low,9,name.com,,,
-4fa0e2f1-3534-4c25-a03e-f19b8650ea7a,holding.life,resell,,,high,low,7,"DNSPod, Inc.",24/08/2023 15:15,24/08/2026 15:15,
+4fa0e2f1-3534-4c25-a03e-f19b8650ea7a,holding.life,resell,,,high,low,7,Xin Net Technology Corporation,24/08/2023 15:15,24/08/2027 15:15,22/09/2026 10:38
 4046ce89-d63a-46b0-a040-a0df2b07a4b2,pepsi.life,available,2.99,,high,low,5,name.com,,,
 2bd47c5d-b3ba-403c-9b0a-edaf3d5de907,groves.life,available,2.99,,medium,low,6,name.com,,,
 563b6894-6713-4068-a445-dd697345a392,period.life,resell,,,high,low,6,"Sav.com, LLC - 10",02/02/2026 15:15,02/02/2027 15:15,
-20cac9b7-8ad2-4624-aa7c-4dfc395e0f14,atomic.life,resell,,,high,medium,6,Dynadot Inc,30/10/2017 06:53,30/10/2026 06:53,
+20cac9b7-8ad2-4624-aa7c-4dfc395e0f14,atomic.life,resell,,,low,low,6,Dynadot Inc,30/10/2017 06:53,30/10/2027 06:53,22/09/2026 11:03
 0a6b40ab-7b6c-4c17-a0a4-256be9713d0e,businesslunch.life,available,2.99,35.99,high,low,14,namesilo,,,
 4ef83d71-c53d-40d9-b9b9-c05428b461a9,drawing.life,resell,,,high,low,7,Xin Net Technology Corporation,23/07/2021 08:38,23/07/2027 08:38,19/09/2026 19:31
 9589ae4b-fdbe-45b3-b70d-c144c3fe2deb,survey.life,resell,,,high,low,6,"DNSPod, Inc.",15/06/2024 15:15,15/06/2026 15:15,
@@ -828,7 +820,7 @@ b7cf9c53-29cf-49be-b692-483e22d4bcc4,fiercely.life,available,2.99,,medium,low,8,
 1cdf7ce4-52d2-428c-abd2-2789cf743db0,adsorbable.life,available,2.98,46.48,low,low,10,namecheap,,,
 4b55ad7e-6a5e-4d89-ab64-f24cbea3bfe2,seeingas.life,available,2.99,,medium,low,9,name.com,,,
 2995beb1-1b58-49de-a2a8-ad990c97bb5a,getofftheground.life,available,2.99,35.99,high,low,18,namesilo,,,
-3a443d26-13f0-4f2c-a859-c958ffac3252,off.life,resell,,,high,low,3,"Spaceship, Inc.",02/10/2021 17:00,02/10/2027 17:00,18/09/2026 04:50
+3a443d26-13f0-4f2c-a859-c958ffac3252,off.life,resell,,,low,low,3,"Spaceship, Inc.",02/10/2021 17:00,02/10/2027 17:00,22/09/2026 14:54
 bd99cb45-3f23-4bf5-8669-ec6009a00633,unexpected.life,resell,,,high,low,10,"Sav.com, LLC - 40",30/09/2025 15:15,30/09/2026 15:15,
 9866df8c-6b30-4ec6-aeb7-6a0dff0efa85,approving.life,available,2.98,46.48,low,low,9,namecheap,,,06/08/2026 08:49
 8221ab71-a00f-4cc6-a205-b98e5b404de5,lately.life,resell,,,medium,low,6,"Sav.com, LLC",03/11/2025 20:25,03/11/2026 20:25,
@@ -857,7 +849,7 @@ efdc1f9e-7ba7-431c-b9b0-3820e514857d,advisory.life,resell,,,medium,low,8,"DNSPod
 60e261c8-6bf5-4c17-be74-b9392edbe693,flooded.life,available,2.98,46.48,low,low,7,namecheap,,,08/08/2026 00:23
 c6b16376-5754-4c35-ada3-c2668c8ac440,writedown.life,available,2.99,,medium,low,10,name.com,,,
 cbe0b40b-a761-4d01-a4ca-19c0b868cac2,appealable.life,available,2.98,46.48,low,low,10,namecheap,,,06/08/2026 05:46
-b5b48030-daa0-4a96-b007-c4fbc3604bd5,aboutship.life,available,2.99,,high,low,10,name.com,,,
+b5b48030-daa0-4a96-b007-c4fbc3604bd5,aboutship.life,available,2.99,,medium,low,10,name.com,,,
 b88d13b8-961e-4d41-a2e7-65964f79ba7d,adrenal.life,available,2.98,46.48,low,low,7,namecheap,,,
 eb836f44-b5ca-454d-a350-f99d36fc682b,flyingsaucer.life,available,2.99,35.99,high,low,13,namesilo,,,
 b3d7bd35-10d9-4c6e-8c8f-ee8c01709a8e,arsenical.life,available,2.98,46.48,low,low,9,namecheap,,,06/08/2026 22:18
@@ -873,6 +865,7 @@ b5b56cff-730e-425b-9946-286435e34cd5,irritating.life,available,2.98,46.48,low,lo
 16266ec7-9451-4320-b543-cc63980daa76,playoff.life,available,2.99,,high,low,8,name.com,,,
 e949f7f9-c2c7-4375-8975-39c3fdb5178a,yoursever.life,available,2.99,,low,low,10,name.com,,,
 87c3842f-953a-41df-9ca3-2bcfbbeeaa4a,finding.life,resell,,,medium,low,7,Xin Net Technology Corporation,12/07/2020 02:52,12/07/2027 02:52,19/09/2026 14:57
+a2018d7d-5c14-42ca-9499-c80b825bcf97,assistant.life,resell,,,low,low,9,"Chengdu West Dimension Digital Technology Co., Ltd.",12/05/2022 13:15,12/05/2027 13:15,22/09/2026 09:56
 8419dc84-d809-4228-90da-6ec3d43b76a7,toying.life,available,2.99,,medium,low,6,name.com,,,
 0aa69f31-9642-4ecb-a1a7-e683ecd130b9,idea.life,available,,,high,low,4,,,,
 32166ea6-9215-4d70-93ca-8cc946f36b49,todate.life,available,2.99,,medium,low,7,name.com,,,
@@ -886,7 +879,7 @@ c9889fda-70f1-4f21-8247-c740fb34bbba,final.life,resell,,,high,low,5,Dynadot Inc,
 62cdd208-57d7-4006-9788-8cfa3650986c,succinct.life,available,2.99,48.99,medium,low,8,name.com,,,
 5d293ea4-4f03-47eb-8e08-7592c500fb8f,cleaner.life,resell,,,high,low,7,Xin Net Technology Corporation,27/07/2020 10:27,27/07/2027 10:27,20/09/2026 01:35
 87eff02e-1219-4ce8-bcef-bc265bac19f5,disassemble.life,available,2.99,35.99,medium,low,11,namesilo,,,
-5a79f3fd-b785-40a4-9e9b-b6af55f7d4ac,answering.life,available,2.99,,high,low,9,name.com,,,
+5a79f3fd-b785-40a4-9e9b-b6af55f7d4ac,answering.life,available,3.49,35.99,medium,low,9,namesilo,,,22/09/2026 05:38
 b765880f-00a1-480d-8970-9f2a172d32d4,stemless.life,available,2.98,46.48,low,low,8,namecheap,,,
 9fc73ac7-7ec8-48a6-8464-2d1ba6669a3b,dignitary.life,available,2.99,35.99,high,low,9,namesilo,,,
 7999e65e-0c38-4715-bb35-646ed45291da,forum.life,resell,,,high,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",05/11/2023 15:15,05/11/2026 15:15,
@@ -894,14 +887,14 @@ b765880f-00a1-480d-8970-9f2a172d32d4,stemless.life,available,2.98,46.48,low,low,
 7e448a44-d7c4-4e9d-bfff-f2a3eabeb30a,implying.life,available,2.99,,medium,low,8,name.com,,,
 c963252a-721b-4b7b-8e72-0a9a7dd4dd28,wore.life,available,2.99,,low,low,4,name.com,,,
 99224bcb-eddc-4b26-a32e-1406748c16d7,affixial.life,available,2.98,46.48,low,low,8,namecheap,,,
-870c6623-e64e-4904-9b9e-235d5f7ae504,aboard.life,resell,,,medium,low,6,"Sav.com, LLC - 45",31/03/2026 15:15,31/03/2027 15:15,
+870c6623-e64e-4904-9b9e-235d5f7ae504,aboard.life,resell,,,low,low,6,"Sav.com, LLC - 45",31/03/2026 15:15,31/03/2027 15:15,
 65e9661f-76ff-4102-be2d-029f7c9f0286,attempt.life,available,2.99,35.99,high,low,7,namesilo,,,
 bf44a80a-39c3-4ed9-830c-3d11fd5f96ac,visualise.life,available,2.99,,high,low,9,name.com,,,
 f9c7684d-3e38-4e9b-aec4-8565544c27d6,achaian.life,available,2.98,46.48,low,low,7,namecheap,,,
 346c6c05-d8b1-49e9-96f5-b1e9fdcc2949,breathoffreshair.life,available,2.99,,high,low,19,name.com,,,
 2091ad1e-0575-4c63-ab37-2380122fe78c,oatmealcake.life,available,2.99,,high,low,12,name.com,,,
 98d31ecc-d818-48e5-a6e7-b12450ed5e4d,mothahfuckah.life,available,2.99,,medium,low,12,name.com,,,
-20e425db-adcc-4887-ad40-9840dab02d72,maxim.life,resell,,,high,low,5,"DNSPod, Inc.",12/08/2020 15:51,12/08/2026 15:51,
+20e425db-adcc-4887-ad40-9840dab02d72,maxim.life,resell,,,high,low,5,Xin Net Technology Corporation,12/08/2020 15:51,12/08/2027 15:51,20/09/2026 19:10
 531631fb-f3e2-4c25-b0d4-db7e9b528559,driving.life,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/08/2018 00:13,08/08/2027 00:13,
 ef1280e4-6ec8-47c8-bc85-30890303aef2,agamic.life,available,2.98,46.48,low,low,6,namecheap,,,
 635ed800-f261-4303-bb67-b4e7134fe2a5,baptistic.life,available,2.98,46.48,low,low,9,namecheap,,,08/08/2026 15:11
@@ -913,9 +906,8 @@ b3571029-206e-46cf-a980-6b279101ebd5,sink.life,resell,2.99,,medium,low,4,"Sav.co
 b6bb4dd5-8a3a-4769-b766-0fbed187b45c,toothwork.life,available,2.99,,low,low,9,name.com,,,
 bd430fda-00c5-4fce-9add-9ac35e8c924c,bowed.life,available,2.98,46.48,low,low,5,namecheap,,,06/08/2026 14:55
 487dcf12-8ba2-4799-876a-3c4c64627594,tails.life,resell,,,high,low,5,Xin Net Technology Corporation,20/07/2023 15:15,20/07/2027 15:15,19/09/2026 14:44
-2ee387a7-7b1c-409e-a119-45a939cc1768,weakened.life,available,2.99,,medium,low,8,name.com,,,
+2ee387a7-7b1c-409e-a119-45a939cc1768,weakened.life,available,2.98,46.48,low,low,8,namecheap,,,22/09/2026 11:29
 d8391a5e-5979-450e-8885-beccb3e1575f,abdicable.life,available,2.98,46.48,low,low,9,namecheap,,,
-475d939b-39e3-484f-a3ca-3a1446fc3927,absorbed.life,available,2.99,48.99,high,low,8,name.com,,,
 8186f97b-96c4-4609-b683-930ae3dcca8b,dakotacity.life,available,2.99,35.99,medium,low,11,namesilo,,,
 99ea5b65-af24-42da-8367-0c8a608926e6,lorditover.life,available,2.99,,medium,low,12,name.com,,,
 7a02b06c-3667-4cc0-8b02-b4de82bc2bbb,barytone.life,available,2.98,46.48,low,low,8,namecheap,,,08/08/2026 19:41
@@ -965,7 +957,6 @@ a40947fc-ac04-41ea-bce6-931751498b78,assamese.life,available,2.98,46.48,low,low,
 d00a5dfd-01fb-4055-bd04-e1c1bc78f9f5,ruled.life,available,2.99,,high,low,5,name.com,,,
 46dc2172-37de-4496-8c33-5ed66d4307af,beborn.life,available,2.99,35.99,medium,low,7,namesilo,,,
 0510e7eb-a8ee-4f0d-997f-44cd2305319a,rheumatic.life,available,2.98,46.48,low,low,9,namecheap,,,06/08/2026 23:05
-c60edae5-6a8d-4b7f-9aff-49efec5fd1da,doable.life,resell,2.99,,high,low,6,DiaMatrix C.C.,03/03/2026 10:57,03/03/2027 10:57,
 e7672956-3ee4-4b0e-86d1-4761f45fdc58,simplicity.life,resell,,,high,low,10,"DNSPod, Inc.",10/03/2025 15:15,10/03/2027 15:15,
 2ff56f8f-ed89-4d33-b97c-c2d44ae23b5a,diminutive.life,available,2.98,46.48,low,low,10,namecheap,,,08/08/2026 14:10
 1e938747-ba3a-4c4b-956d-ab15c46620fd,harrowing.life,available,2.98,46.48,low,low,9,namecheap,,,
@@ -975,8 +966,8 @@ c7a4569a-282f-406f-8513-29147121d341,antennal.life,available,2.98,46.48,low,low,
 63cbb85a-e575-45ad-bbbf-9db0532436bf,fame.life,resell,,,high,low,4,Dynadot Inc,29/11/2017 14:08,29/11/2026 14:08,
 c3c1bfb4-4f1f-4761-bcd7-c8d1c5d55098,alular.life,available,2.98,46.48,low,low,6,namecheap,,,
 d520249c-026c-4460-b1c8-992f90a3c63b,alleyway.life,available,3.49,35.99,low,low,8,namesilo,,,19/09/2026 04:05
-90903aff-4eb2-4a53-830e-3ad2891c16f3,lively.life,available,,,high,high,6,,,,
 1d4cdfe6-b7cc-4ef6-90ce-a871bd190598,childendangerment.life,available,2.99,35.99,medium,low,18,namesilo,,,
+39453474-551a-4404-8558-71c735002821,blocked.life,available,3.49,35.99,low,low,7,namesilo,,,22/09/2026 22:08
 8385917a-6c03-4b06-9c90-efe051f9e868,spirited.life,resell,,,high,low,8,"DNSPod, Inc.",11/01/2025 15:15,11/01/2027 15:15,
 76b30204-1ae1-4a45-a0a5-795ead1657e6,achy.life,available,2.98,46.48,low,low,4,namecheap,,,
 4647c588-85ea-432b-a881-3cabd1fa1a60,bowlofcherries.life,available,2.99,35.99,high,low,16,namesilo,,,
@@ -994,8 +985,17 @@ e05694c3-7784-426f-b1ad-1e7f9e26d459,bear.life,resell,,,high,low,4,"DNSPod, Inc.
 6276b7da-4c11-4c25-82bd-07f0d5a216d5,highdefinition.life,available,2.99,,high,low,15,name.com,,,
 c764d664-7b94-4eb4-bde4-0fb14a6dd3d3,oarblade.life,available,2.99,,medium,low,9,name.com,,,
 178bae55-5598-4cdd-a81e-25564fa3789e,appetising.life,available,2.98,46.48,medium,low,10,namecheap,,,06/08/2026 06:50
-f8164206-3bd1-4bb2-9f80-494c7e36f0b9,alluring.life,resell,,,high,low,8,"Sav.com, LLC - 48",02/04/2026 15:16,02/04/2027 15:16,
+f8164206-3bd1-4bb2-9f80-494c7e36f0b9,alluring.life,resell,,,medium,low,8,"Sav.com, LLC - 48",02/04/2026 15:16,02/04/2027 15:16,22/09/2026 01:34
 c64ae623-0653-40e8-a431-668630aec2c0,flu.life,resell,,,medium,low,3,"Sav.com, LLC - 6",02/12/2024 17:00,02/12/2026 17:00,
 e8fbd627-a988-4d36-853d-f2cc2964718d,ironic.life,resell,,,high,low,6,"Sav.com, LLC - 34",26/10/2025 15:16,26/10/2026 15:16,
 e741ed80-f8ba-46d3-bb24-a286a6927898,mall.life,resell,,,high,low,4,"Spaceship, Inc.",16/09/2021 17:00,16/09/2026 17:00,
 a6bf4d31-c2a3-4002-b358-1a4cde89ec7b,diva.life,resell,,,high,low,4,"Sav.com, LLC - 35",16/10/2025 15:15,16/10/2026 15:15,
+19a3eac2-b7cc-4041-a88a-828f0d0fbaaa,butif.life,available,2.99,35.99,medium,low,6,namesilo,,,
+2a145cf6-db50-4b81-9bc6-070925996f15,notion.life,resell,,,high,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),20/10/2019 21:28,20/10/2026 21:28,
+29ece729-17fa-4cf4-8583-bd98d238c348,bumpinto.life,available,2.99,35.99,medium,low,9,namesilo,,,
+1d274e36-0d06-487d-864e-7368a9c660f0,acerose.life,available,2.98,46.48,low,low,7,namecheap,,,
+c58e64a2-b3b0-49ff-a48d-6f82768771e5,ing.life,resell,,,medium,low,3,"Xiamen ChinaSource Internet Service Co., Ltd",09/09/2024 17:00,09/09/2026 17:00,
+618ece65-d901-448f-ab23-a8a199293dea,butthenagain.life,available,2.99,35.99,medium,low,14,namesilo,,,
+bbaebfc4-5c19-4f4f-b780-813b0a43ef06,scientificname.life,available,2.99,,medium,low,15,name.com,,,
+10fb4c99-f0d9-433d-87cc-d1bb0387135c,nearer.life,available,2.99,,medium,low,6,name.com,,,
+76c4e087-d25c-4ff2-ac08-4d4bd3f35109,bedraggled.life,available,2.98,46.48,low,low,10,namecheap,,,09/08/2026 07:28
