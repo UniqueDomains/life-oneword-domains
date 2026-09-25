@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .life one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,477 domains · **Median ask:** $3.91 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/life`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| lvi.life        | available | $2.98     | $46.48        | low            | low    | 3      | namecheap                                           |
-| sink.life       | resell    | $2.99     | —             | medium         | low    | 4      | Sav.com, LLC                                        |
-| arabic.life     | premium   | $118.80   | $118.80       | medium         | low    | 6      | namesilo                                            |
-| achy.life       | available | $2.98     | $46.48        | low            | low    | 4      | namecheap                                           |
+| cxx.life        | available | $2.98     | $46.48        | high           | low    | 3      | namecheap                                           |
+| sink.life       | resell    | $2.99     | —             | high           | low    | 4      | Sav.com, LLC                                        |
+| fig.life        | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                           |
+| lvi.life        | available | $2.98     | $46.48        | high           | low    | 3      | namecheap                                           |
 | xmas.life       | resell    | $2.99     | —             | high           | low    | 4      | Sav.com, LLC                                        |
-| dramatic.life   | premium   | $123.75   | $123.75       | medium         | low    | 8      | name.com                                            |
-| awry.life       | available | $2.98     | $46.48        | low            | low    | 4      | namecheap                                           |
-| hover.life      | resell    | $2.99     | —             | medium         | low    | 5      | Sav.com, LLC                                        |
-| soldiers.life   | premium   | $46.20    | $92.40        | medium         | low    | 8      | namecheap                                           |
-| lick.life       | available | $2.99     | —             | medium         | low    | 4      | name.com                                            |
-| corrupt.life    | resell    | $2.99     | $48.99        | high           | low    | 7      | Sav.com, LLC                                        |
-| negotiate.life  | premium   | $46.20    | $92.40        | high           | low    | 9      | namecheap                                           |
-| nyse.life       | available | $2.99     | —             | medium         | low    | 4      | name.com                                            |
+| rid.life        | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                           |
+| achy.life       | available | $2.98     | $46.48        | medium         | low    | 4      | namecheap                                           |
+| hover.life      | resell    | $2.99     | —             | high           | low    | 5      | Sav.com, LLC                                        |
+| saw.life        | premium   | $46.20    | $92.40        | high           | low    | 3      | namecheap                                           |
+| awry.life       | available | $2.98     | $46.48        | medium         | low    | 4      | namecheap                                           |
+| camouflage.life | resell    | $2.99     | —             | high           | low    | 10     | Sav.com, LLC                                        |
+| afghan.life     | premium   | $64.35    | $128.70       | high           | low    | 6      | namecheap                                           |
+| clxv.life       | available | $2.98     | $46.48        | medium         | low    | 4      | namecheap                                           |
 | act.life        | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| mexicocity.life | premium   | $46.20    | $92.40        | medium         | low    | 11     | namecheap                                           |
-| prat.life       | available | $2.98     | $46.48        | low            | low    | 4      | namecheap                                           |
-| ain.life        | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                        |
-| took.life       | available | $2.99     | —             | low            | low    | 4      | name.com                                            |
-| ash.life        | resell    | —         | —             | medium         | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| wore.life       | available | $2.99     | —             | low            | low    | 4      | name.com                                            |
+| soldier.life    | premium   | $46.20    | $92.40        | high           | low    | 7      | namecheap                                           |
+| cxlv.life       | available | $2.98     | $46.48        | high           | low    | 4      | namecheap                                           |
+| ain.life        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                        |
+| shooting.life   | premium   | $46.20    | $92.40        | high           | low    | 8      | namecheap                                           |
+| died.life       | available | $2.99     | $35.99        | low            | low    | 4      | namesilo                                            |
+| ale.life        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 31                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LIFE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LIFE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
